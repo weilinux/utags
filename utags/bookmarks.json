@@ -1,0 +1,417 @@
+{
+  "data": {
+    "https://github.com/eryajf/awesome-stars-eryajf": {
+      "tags": [
+        "awesome"
+      ],
+      "meta": {
+        "title": "eryajf/awesome-stars-eryajf",
+        "type": "repo",
+        "updated": 1759137934737,
+        "updated3": 1759137948909,
+        "created": 1759137934737
+      }
+    },
+    "https://www.youtube.com/watch?v=7kf1SACqlRw": {
+      "tags": [
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "I was bad at Data Structures and Algorithms. Then I did this.",
+        "type": "video",
+        "updated": 1759136895468,
+        "updated3": 1759136911082,
+        "created": 1759136895468
+      }
+    },
+    "https://github.com/itisaid/Doris": {
+      "tags": [
+        "db"
+      ],
+      "meta": {
+        "title": "itisaid/Doris",
+        "type": "repo",
+        "updated": 1759130474740,
+        "updated3": 1759135579042,
+        "created": 1759130474740
+      }
+    },
+    "https://www.cnblogs.com/GarrettWale/p/16271622.html": {
+      "tags": [
+        "db",
+        "index"
+      ],
+      "meta": {
+        "title": "MySQL中的全表扫描和索引树扫描",
+        "updated": 1759050288926,
+        "updated3": 1759135970352,
+        "created": 1759050244003
+      }
+    },
+    "https://github.com/xiaoyaochen": {
+      "tags": [
+        "安全",
+        "安全大佬"
+      ],
+      "meta": {
+        "title": "xiaoyaochen",
+        "type": "user",
+        "updated": 1758531628445,
+        "updated3": 1759136044937,
+        "created": 1758531628445
+      }
+    },
+    "https://github.com/odavid/my-bloody-jenkins/blob/master/slides/My-Bloody-Jenkins-Mastering-The-Butler-0.1.2.pptx": {
+      "tags": [
+        "code",
+        "cicd"
+      ],
+      "meta": {
+        "title": "My-Bloody-Jenkins-Mastering-The-Butler-0.1.2.pptx",
+        "type": "file",
+        "updated": 1758509676930,
+        "updated3": 1759136044937,
+        "created": 1758509676930
+      }
+    },
+    "https://github.com/shuwenhe": {
+      "tags": [
+        "gopher大佬"
+      ],
+      "meta": {
+        "title": "shuwenhe",
+        "type": "user",
+        "updated": 1758466827543,
+        "updated3": 1759136044937,
+        "created": 1758466827543
+      }
+    },
+    "https://huntscreens.com/en": {
+      "tags": [
+        "资源",
+        "ai-tools"
+      ],
+      "meta": {
+        "title": "HuntScreens",
+        "updated": 1758455273544,
+        "updated3": 1759136044937,
+        "created": 1758455273544
+      }
+    },
+    "https://arxiv.org/search/?query=devops&searchtype=all&source=header": {
+      "tags": [
+        "资源",
+        "优秀pdf文档"
+      ],
+      "meta": {
+        "title": "前沿研究pdf文档-Cornell University-arxiv.org",
+        "updated": 1758441287900,
+        "updated3": 1759136044937,
+        "created": 1758441287900
+      }
+    },
+    "https://www.youtube.com/playlist?list=PLdNCznBZ77NrSAWDpUKIqxy6uYLnh-UJ-": {
+      "tags": [
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "(12) Data Structures & Algorithms - YouTube",
+        "updated": 1758440202025,
+        "updated3": 1759136044937,
+        "created": 1758440202025
+      }
+    },
+    "https://www.youtube.com/@hayk.simonyan/playlists": {
+      "tags": [
+        "fullstack大佬"
+      ],
+      "meta": {
+        "title": "(12) Hayk Simonyan - YouTube",
+        "updated": 1758439975317,
+        "updated3": 1759136044937,
+        "created": 1758439975317
+      }
+    },
+    "https://www.youtube.com/watch?v=FsB_nRGdeLs": {
+      "tags": [
+        "★",
+        "安全",
+        "api"
+      ],
+      "meta": {
+        "title": "API Security Explained: Rate Limiting, CORS, SQL Injection, CSRF, XSS & More",
+        "type": "video",
+        "updated": 1758426356086,
+        "updated3": 1759136044937,
+        "created": 1758426356086
+      }
+    },
+    "https://www.youtube.com/watch?v=McNRkd5CxFY": {
+      "tags": [
+        "★",
+        "ai-mcp"
+      ],
+      "meta": {
+        "title": "MCP是啥？技术原理是什么？一个视频搞懂MCP的一切。Windows系统配置MCP，Cursor,Cline 使用MCP",
+        "type": "video",
+        "updated": 1758425708352,
+        "updated3": 1759136044937,
+        "created": 1758425708352
+      }
+    },
+    "https://www.youtube.com/watch?v=0bmiwsv6LaA": {
+      "tags": [
+        "★",
+        "go",
+        "地道gopher"
+      ],
+      "meta": {
+        "title": "THIS is the BEST Way to Write HTTP Services in Golang",
+        "type": "video",
+        "updated": 1758415659471,
+        "updated3": 1759136044937,
+        "created": 1758415659471
+      }
+    },
+    "https://github.com/pinmonl/pinmonl": {
+      "tags": [
+        "code",
+        "我想现实的"
+      ],
+      "meta": {
+        "title": "pinmonl/pinmonl",
+        "type": "repo",
+        "updated": 1758255649016,
+        "updated3": 1759136044937,
+        "created": 1758255649016
+      }
+    },
+    "https://github.com/recally-io/recally": {
+      "tags": [
+        "code",
+        "llm"
+      ],
+      "meta": {
+        "title": "recally-io/recally",
+        "type": "repo",
+        "updated": 1758253682639,
+        "updated3": 1759136044937,
+        "created": 1758253682639
+      }
+    },
+    "https://github.com/zyedidia/generic": {
+      "tags": [
+        "code",
+        "实用DSA"
+      ],
+      "meta": {
+        "title": "zyedidia/generic",
+        "type": "repo",
+        "updated": 1758192057373,
+        "updated3": 1759136044937,
+        "created": 1758192057373
+      }
+    },
+    "https://www.tampermonkey.net/faq.php#Q209": {
+      "tags": [
+        "Tampermonkey"
+      ],
+      "meta": {
+        "title": "油猴权限",
+        "updated": 1758191610726,
+        "updated3": 1759136044937,
+        "created": 1758191610726
+      }
+    },
+    "https://github.com/eryajf/learning-weekly/tree/main": {
+      "tags": [
+        "★",
+        "favorite"
+      ],
+      "meta": {
+        "title": "eryajf/learning-weekly: 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟",
+        "updated": 1758032760698,
+        "updated3": 1759136044937,
+        "created": 1758032760698
+      }
+    },
+    "https://github.com/realsomething/sql": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "realsomething/sql",
+        "type": "repo",
+        "updated": 1758031995835,
+        "updated3": 1759136044937,
+        "created": 1758031995835
+      }
+    },
+    "https://github.com/realsomething/coderfun": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "realsomething/coderfun",
+        "type": "repo",
+        "updated": 1758032046985,
+        "updated3": 1759136044937,
+        "created": 1758031684236
+      }
+    },
+    "https://utags.link/help/user-manual/extension-guide/": {
+      "tags": [
+        "read-later",
+        "to-read"
+      ],
+      "meta": {
+        "title": "Browser Extension/User Script Guide | UTags",
+        "updated": 1758020185959,
+        "updated3": 1759136044937,
+        "created": 1758017009558
+      }
+    },
+    "https://juejin.cn/post/7507204325576933391": {
+      "tags": [
+        "reading"
+      ],
+      "meta": {
+        "title": "gRPC--流式传输",
+        "updated": 1758016381974,
+        "updated3": 1759136044937,
+        "created": 1758016381974
+      }
+    },
+    "https://greasyfork.org/scripts/447389": {
+      "tags": [
+        "monkey"
+      ],
+      "meta": {
+        "title": "SciHub CRX",
+        "updated": 1758014863362,
+        "updated3": 1759136044937,
+        "created": 1758014863362
+      }
+    },
+    "https://juejin.cn/post/7549251279018901567": {
+      "tags": [
+        "★",
+        "❤️",
+        "jj-go",
+        "reading"
+      ],
+      "meta": {
+        "title": "Go语言实战案例 — 项目实战篇：图书管理系统（文件存储）一、项目目标 我们要实现一个简易的命令行版 图书管理系统，功能 - 掘金",
+        "updated": 1758015076720,
+        "updated3": 1759136044937,
+        "created": 1757962152955
+      }
+    },
+    "https://www.youtube.com/@hello_interview/featured": {
+      "tags": [
+        "❤️",
+        "ugeek"
+      ],
+      "meta": {
+        "title": "(11) Hello Interview - SWE Interview Preparation - YouTube",
+        "updated": 1757961254694,
+        "updated3": 1759136044937,
+        "created": 1757961254694
+      }
+    },
+    "https://www.youtube.com/watch?v=DQ57zYedMdQ": {
+      "tags": [
+        "system design"
+      ],
+      "meta": {
+        "title": "Basics",
+        "type": "video",
+        "updated": 1757961026418,
+        "updated3": 1759136044937,
+        "created": 1757961026418
+      }
+    },
+    "https://utags.link/#a%20repo%20file": {
+      "tags": [
+        "❤️",
+        "code"
+      ],
+      "meta": {
+        "title": "UTags 书签管理",
+        "updated": 1757960662219,
+        "updated3": 1759136044937,
+        "created": 1757960662219
+      }
+    },
+    "https://github.com/peterq/pan-light/blob/master/pan-light.go": {
+      "tags": [
+        "a repo file"
+      ],
+      "meta": {
+        "title": "pan-light.go",
+        "type": "file",
+        "updated": 1757960517727,
+        "updated3": 1759136044937,
+        "created": 1757960517727
+      }
+    },
+    "https://www.youtube.com/watch?v=DA-WyKVUTI8": {
+      "tags": [
+        "arch",
+        "micro"
+      ],
+      "meta": {
+        "title": "Top 9 Software Architecture Patterns Every Developer Must Know!",
+        "type": "video",
+        "updated": 1757960009157,
+        "updated3": 1759136044937,
+        "created": 1757960009157
+      }
+    },
+    "https://www.youtube.com/watch?v=126ALse1rWA": {
+      "tags": [
+        "arch"
+      ],
+      "meta": {
+        "title": "How Web Sockets work | Deep Dive",
+        "type": "video",
+        "updated": 1757959776298,
+        "updated3": 1759136044937,
+        "created": 1757959776298
+      }
+    },
+    "https://github.com/xinliangnote/Go": {
+      "tags": [
+        "go-repo"
+      ],
+      "meta": {
+        "title": "xinliangnote/Go",
+        "type": "repo",
+        "updated": 1757951690482,
+        "updated3": 1759136044937,
+        "created": 1757951690482
+      }
+    }
+  },
+  "meta": {
+    "databaseVersion": 3,
+    "lastUploadDevice": {
+      "deviceId": "Q2HYB21LFDE0MC4W-mg4w598q",
+      "browser": "Chrome 140.0",
+      "os": "Windows",
+      "deviceType": "desktop",
+      "uploadTimestamp": 1759153414057,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "origin": "http://127.0.0.1:8080",
+      "currentSyncTimestamp": 1759153414056
+    },
+    "stats": {
+      "bookmarksCount": 32,
+      "tagsCount": 36,
+      "totalTagsCount": 53,
+      "domainsCount": 9
+    },
+    "updated": 1759153414057,
+    "created": 1759153414057
+  }
+}
