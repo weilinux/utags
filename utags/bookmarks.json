@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://www.youtube.com/watch?v=tNrNLoCqzco": {
+      "tags": [
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "Fastest way to learn Data Structures and Algorithms",
+        "type": "video",
+        "updated": 1759155982156,
+        "updated3": 1759156297032,
+        "created": 1759155982156
+      }
+    },
     "https://github.com/eryajf/awesome-stars-eryajf": {
       "tags": [
         "awesome"
@@ -400,18 +412,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759153414057,
+      "uploadTimestamp": 1759156297032,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "currentSyncTimestamp": 1759153414056
+      "lastDataChangeTimestamp": 1759153414056,
+      "currentSyncTimestamp": 1759156297032
     },
     "stats": {
-      "bookmarksCount": 32,
+      "bookmarksCount": 33,
       "tagsCount": 36,
-      "totalTagsCount": 53,
+      "totalTagsCount": 54,
       "domainsCount": 9
     },
-    "updated": 1759153414057,
+    "updated": 1759156297032,
     "created": 1759153414057
   }
 }
