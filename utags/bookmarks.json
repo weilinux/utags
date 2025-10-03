@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://github.com/search?q=+%E7%AC%94%E8%AE%B0+language%3AGo+&type=repositories": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "github上的笔记-搜索-不要乱点",
+        "updated": 1759463380675,
+        "updated3": 1759463724299,
+        "created": 1759463380675
+      }
+    },
     "https://www.youtube.com/watch?v=tNrNLoCqzco": {
       "tags": [
         "dsa大佬"
@@ -412,19 +423,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759156297032,
+      "uploadTimestamp": 1759463724300,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759153414056,
-      "currentSyncTimestamp": 1759156297032
+      "lastDataChangeTimestamp": 1759156297032,
+      "currentSyncTimestamp": 1759463724299
     },
     "stats": {
-      "bookmarksCount": 33,
+      "bookmarksCount": 34,
       "tagsCount": 36,
-      "totalTagsCount": 54,
+      "totalTagsCount": 55,
       "domainsCount": 9
     },
-    "updated": 1759156297032,
+    "updated": 1759463724300,
     "created": 1759153414057
   }
 }
