@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://www.ruike1.com/thread-75945-1-1.html": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "[百度网盘] rk0202-JKSJ-初级go工程师训练营(完结)",
+        "updated": 1759483342484,
+        "updated3": 1759483655270,
+        "created": 1759483342484
+      }
+    },
     "https://xiaojun90.github.io/blog/architecture/": {
       "tags": [
         "read-later"
@@ -445,19 +456,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759482531219,
+      "uploadTimestamp": 1759483655272,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759480164821,
-      "currentSyncTimestamp": 1759482531218
+      "lastDataChangeTimestamp": 1759482531218,
+      "currentSyncTimestamp": 1759483655270
     },
     "stats": {
-      "bookmarksCount": 36,
+      "bookmarksCount": 37,
       "tagsCount": 36,
-      "totalTagsCount": 57,
-      "domainsCount": 11
+      "totalTagsCount": 58,
+      "domainsCount": 12
     },
-    "updated": 1759482531219,
+    "updated": 1759483655272,
     "created": 1759153414057
   }
 }
