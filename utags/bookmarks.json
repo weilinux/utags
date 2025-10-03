@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://xiaojun90.github.io/blog/architecture/": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Joyxj的架构设计-好书",
+        "updated": 1759482222391,
+        "updated3": 1759482531218,
+        "created": 1759482222391
+      }
+    },
     "https://grep.app/search?f.lang=Go&q=TODO%3A+": {
       "tags": [
         "码农笔记"
@@ -434,19 +445,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759480164822,
+      "uploadTimestamp": 1759482531219,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759463724299,
-      "currentSyncTimestamp": 1759480164821
+      "lastDataChangeTimestamp": 1759480164821,
+      "currentSyncTimestamp": 1759482531218
     },
     "stats": {
-      "bookmarksCount": 35,
+      "bookmarksCount": 36,
       "tagsCount": 36,
-      "totalTagsCount": 56,
-      "domainsCount": 10
+      "totalTagsCount": 57,
+      "domainsCount": 11
     },
-    "updated": 1759480164822,
+    "updated": 1759482531219,
     "created": 1759153414057
   }
 }
