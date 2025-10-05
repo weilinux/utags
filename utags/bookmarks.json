@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://grep.app/search?f.lang=Python&f.lang.pattern=python&q=%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 运维平台py- 不要乱点",
+        "updated": 1759656555615,
+        "updated3": 1759656863744,
+        "created": 1759656555615
+      }
+    },
     "https://github.com/orgs/itsharex/repositories?type=source&q=language%3AGo+%E8%BF%90%E7%BB%B4": {
       "tags": [
         "go-repo"
@@ -538,19 +549,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759631844346,
+      "uploadTimestamp": 1759656863744,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759626544062,
-      "currentSyncTimestamp": 1759631844346
+      "lastDataChangeTimestamp": 1759631844346,
+      "currentSyncTimestamp": 1759656863744
     },
     "stats": {
-      "bookmarksCount": 44,
+      "bookmarksCount": 45,
       "tagsCount": 40,
-      "totalTagsCount": 68,
+      "totalTagsCount": 69,
       "domainsCount": 14
     },
-    "updated": 1759631844346,
+    "updated": 1759656863744,
     "created": 1759153414057
   }
 }
