@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://github.com/icopy-site/awesome-cn/blob/master/docs/awesome/awesome-algorithms.md": {
+      "tags": [
+        "dsa精品仓库"
+      ],
+      "meta": {
+        "title": "awesome-algorithms.md",
+        "type": "file",
+        "updated": 1759675576398,
+        "updated3": 1759675880320,
+        "created": 1759675365216
+      }
+    },
     "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/about/cloudnative2_0/pdf0531/1661909291339187230.pdf": {
       "tags": [
         "read-later"
@@ -54,6 +66,42 @@
         "updated": 1759591917786,
         "updated3": 1759592224763,
         "created": 1759591917786
+      }
+    },
+    "https://www.youtube.com/watch?v=lWSwvFNJg1g": {
+      "tags": [
+        "纠正错误"
+      ],
+      "meta": {
+        "title": "Always Be a Learner: Samurai Empty Cup Mindset",
+        "type": "video",
+        "updated": 1759591319936,
+        "updated3": 1759675880320,
+        "created": 1759591319936
+      }
+    },
+    "https://www.youtube.com/@MatthewSmith33": {
+      "tags": [
+        "纠正错误"
+      ],
+      "meta": {
+        "title": "Matthew Smith",
+        "type": "user",
+        "updated": 1759591275341,
+        "updated3": 1759675880320,
+        "created": 1759591182689
+      }
+    },
+    "https://www.youtube.com/watch?v=jyLXcy5SGd8": {
+      "tags": [
+        "纠正错误"
+      ],
+      "meta": {
+        "title": "\"Dopamine Loading\" is the EASIEST way to get ADDICTED to studying",
+        "type": "video",
+        "updated": 1759590769728,
+        "updated3": 1759675880320,
+        "created": 1759590769728
       }
     },
     "https://c.biancheng.net/ml_alg/knn.html": {
@@ -560,19 +608,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759660403892,
+      "uploadTimestamp": 1759675880321,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759656863744,
-      "currentSyncTimestamp": 1759660403891
+      "lastDataChangeTimestamp": 1759660403891,
+      "currentSyncTimestamp": 1759675880320
     },
     "stats": {
-      "bookmarksCount": 46,
-      "tagsCount": 40,
-      "totalTagsCount": 70,
+      "bookmarksCount": 50,
+      "tagsCount": 42,
+      "totalTagsCount": 74,
       "domainsCount": 15
     },
-    "updated": 1759660403892,
+    "updated": 1759675880321,
     "created": 1759153414057
   }
 }
