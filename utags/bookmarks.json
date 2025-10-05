@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/about/cloudnative2_0/pdf0531/1661909291339187230.pdf": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "云原生2.0架构 白皮书",
+        "updated": 1759660068148,
+        "updated3": 1759660403891,
+        "created": 1759660068148
+      }
+    },
     "https://grep.app/search?f.lang=Python&f.lang.pattern=python&q=%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0": {
       "tags": [
         "码农笔记"
@@ -549,19 +560,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759656863744,
+      "uploadTimestamp": 1759660403892,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759631844346,
-      "currentSyncTimestamp": 1759656863744
+      "lastDataChangeTimestamp": 1759656863744,
+      "currentSyncTimestamp": 1759660403891
     },
     "stats": {
-      "bookmarksCount": 45,
+      "bookmarksCount": 46,
       "tagsCount": 40,
-      "totalTagsCount": 69,
-      "domainsCount": 14
+      "totalTagsCount": 70,
+      "domainsCount": 15
     },
-    "updated": 1759656863744,
+    "updated": 1759660403892,
     "created": 1759153414057
   }
 }
