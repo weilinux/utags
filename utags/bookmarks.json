@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://grep.app/search?f.lang=Go&f.lang.pattern=go&q=simple+note": {
+      "tags": [
+        "码农笔记",
+        "codegrep"
+      ],
+      "meta": {
+        "title": "codegrep-simple note-",
+        "updated": 1759626233654,
+        "updated3": 1759626544062,
+        "created": 1759626233654
+      }
+    },
     "https://grep.app/search?f.lang=Go&q=%E4%B8%8A%E4%BC%A0%E8%A7%86%E9%A2%91": {
       "tags": [
         "码农笔记"
@@ -515,19 +527,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759592224764,
+      "uploadTimestamp": 1759626544063,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759585273220,
-      "currentSyncTimestamp": 1759592224763
+      "lastDataChangeTimestamp": 1759592224763,
+      "currentSyncTimestamp": 1759626544062
     },
     "stats": {
-      "bookmarksCount": 42,
-      "tagsCount": 39,
-      "totalTagsCount": 65,
+      "bookmarksCount": 43,
+      "tagsCount": 40,
+      "totalTagsCount": 67,
       "domainsCount": 14
     },
-    "updated": 1759592224764,
+    "updated": 1759626544063,
     "created": 1759153414057
   }
 }
