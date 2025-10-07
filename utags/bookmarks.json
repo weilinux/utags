@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://developer.aliyun.com/article/1530214": {
+      "tags": [
+        "程序员训练场"
+      ],
+      "meta": {
+        "title": "程序员的自我修养 - 架构主题简思",
+        "updated": 1759801623440,
+        "updated3": 1759801932503,
+        "created": 1759801623440
+      }
+    },
     "https://pymlovelyq.github.io/posts/32a7f0eb/": {
       "tags": [
         "dsa精品仓库"
@@ -641,19 +652,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759799933718,
+      "uploadTimestamp": 1759801932503,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759799474354,
-      "currentSyncTimestamp": 1759799933717
+      "lastDataChangeTimestamp": 1759799933717,
+      "currentSyncTimestamp": 1759801932503
     },
     "stats": {
-      "bookmarksCount": 53,
-      "tagsCount": 42,
-      "totalTagsCount": 77,
-      "domainsCount": 16
+      "bookmarksCount": 54,
+      "tagsCount": 43,
+      "totalTagsCount": 78,
+      "domainsCount": 17
     },
-    "updated": 1759799933718,
+    "updated": 1759801932503,
     "created": 1759153414057
   }
 }
