@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://grep.app/search?f.lang=Go&f.lang.pattern=go&q=AssignPermissionToRole": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "github上的笔记-AssignPermissionToRole不要乱点",
+        "updated": 1759799169432,
+        "updated3": 1759799474354,
+        "created": 1759799169432
+      }
+    },
     "https://grep.app/search?f.lang=Markdown&q=database-design": {
       "tags": [
         "码农笔记"
@@ -619,19 +630,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759742023604,
+      "uploadTimestamp": 1759799474355,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759675880320,
-      "currentSyncTimestamp": 1759742023603
+      "lastDataChangeTimestamp": 1759742023603,
+      "currentSyncTimestamp": 1759799474354
     },
     "stats": {
-      "bookmarksCount": 51,
+      "bookmarksCount": 52,
       "tagsCount": 42,
-      "totalTagsCount": 75,
+      "totalTagsCount": 76,
       "domainsCount": 15
     },
-    "updated": 1759742023604,
+    "updated": 1759799474355,
     "created": 1759153414057
   }
 }
