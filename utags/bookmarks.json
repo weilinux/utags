@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://xiaojun90.github.io/blog/architecture/1026.html#%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84": {
+      "tags": [
+        "程序员训练场"
+      ],
+      "meta": {
+        "title": "Joyxj-架构设计-优秀文章",
+        "updated": 1759836720626,
+        "updated3": 1759837044532,
+        "created": 1759836720626
+      }
+    },
     "https://grep.app/search?f.lang=Python&q=%E5%A4%84%E7%90%86%E5%90%88%E5%B9%B6": {
       "tags": [
         "码农笔记"
@@ -696,19 +707,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759830884434,
+      "uploadTimestamp": 1759837044536,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759830283923,
-      "currentSyncTimestamp": 1759830884433
+      "lastDataChangeTimestamp": 1759830884433,
+      "currentSyncTimestamp": 1759837044532
     },
     "stats": {
-      "bookmarksCount": 58,
+      "bookmarksCount": 59,
       "tagsCount": 43,
-      "totalTagsCount": 82,
+      "totalTagsCount": 83,
       "domainsCount": 17
     },
-    "updated": 1759830884434,
+    "updated": 1759837044536,
     "created": 1759153414057
   }
 }
