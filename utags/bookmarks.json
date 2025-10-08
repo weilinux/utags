@@ -1,5 +1,29 @@
 {
   "data": {
+    "https://www.youtube.com/watch?v=IUUpxfa1SSw": {
+      "tags": [
+        "★",
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "为什么关系数据库的挑战者都没有好下场【让编程再次伟大#25】",
+        "type": "video",
+        "updated": 1759933911553,
+        "updated3": 1759934303940,
+        "created": 1759933911553
+      }
+    },
+    "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "How I write HTTP services in Go after 13 years",
+        "updated": 1759933678395,
+        "updated3": 1759934303940,
+        "created": 1759933678395
+      }
+    },
     "https://grep.app/search?f.lang=Go&q=+polling": {
       "tags": [
         "码农笔记"
@@ -718,19 +742,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759889970116,
+      "uploadTimestamp": 1759934303942,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759837044532,
-      "currentSyncTimestamp": 1759889970112
+      "lastDataChangeTimestamp": 1759889970112,
+      "currentSyncTimestamp": 1759934303940
     },
     "stats": {
-      "bookmarksCount": 60,
+      "bookmarksCount": 62,
       "tagsCount": 43,
-      "totalTagsCount": 84,
-      "domainsCount": 17
+      "totalTagsCount": 87,
+      "domainsCount": 18
     },
-    "updated": 1759889970116,
+    "updated": 1759934303942,
     "created": 1759153414057
   }
 }
