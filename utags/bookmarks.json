@@ -1,5 +1,38 @@
 {
   "data": {
+    "https://blog.algomaster.io/p/system-design-how-to-scale-a-database": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "System Design: How to Scale a Database",
+        "updated": 1759995431588,
+        "updated3": 1759995744022,
+        "created": 1759995431588
+      }
+    },
+    "https://grep.app/search?f.lang.pattern=go&q=%E8%BF%9C%E7%A8%8B%E8%BF%87%E7%A8%8B%E8%B0%83%E7%94%A8": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 远程过程调用- 不要乱点",
+        "updated": 1759995326663,
+        "updated3": 1759995744022,
+        "created": 1759995326663
+      }
+    },
+    "https://grep.app/search?q=rpc%E5%B0%81%E8%A3%85": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep-rpc封装 - 不要乱点",
+        "updated": 1759995188008,
+        "updated3": 1759995744022,
+        "created": 1759995188008
+      }
+    },
     "https://zhuyasen.com/post/learn_better.html#toc_7": {
       "tags": [
         "better-me"
@@ -775,19 +808,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759990374886,
+      "uploadTimestamp": 1759995744025,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759980143392,
-      "currentSyncTimestamp": 1759990374884
+      "lastDataChangeTimestamp": 1759990374884,
+      "currentSyncTimestamp": 1759995744022
     },
     "stats": {
-      "bookmarksCount": 65,
+      "bookmarksCount": 68,
       "tagsCount": 44,
-      "totalTagsCount": 90,
-      "domainsCount": 20
+      "totalTagsCount": 93,
+      "domainsCount": 21
     },
-    "updated": 1759990374886,
+    "updated": 1759995744025,
     "created": 1759153414057
   }
 }
