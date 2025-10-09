@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://zhuyasen.com/post/learn_better.html#toc_7": {
+      "tags": [
+        "better-me"
+      ],
+      "meta": {
+        "title": "有效学习摘录",
+        "updated": 1759990068060,
+        "updated3": 1759990374884,
+        "created": 1759990068060
+      }
+    },
     "https://freedium.cfd/https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520": {
       "tags": [
         "db"
@@ -764,19 +775,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759980143392,
+      "uploadTimestamp": 1759990374886,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759935193185,
-      "currentSyncTimestamp": 1759980143392
+      "lastDataChangeTimestamp": 1759980143392,
+      "currentSyncTimestamp": 1759990374884
     },
     "stats": {
-      "bookmarksCount": 64,
-      "tagsCount": 43,
-      "totalTagsCount": 89,
-      "domainsCount": 19
+      "bookmarksCount": 65,
+      "tagsCount": 44,
+      "totalTagsCount": 90,
+      "domainsCount": 20
     },
-    "updated": 1759980143392,
+    "updated": 1759990374886,
     "created": 1759153414057
   }
 }
