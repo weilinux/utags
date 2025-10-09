@@ -1,5 +1,41 @@
 {
   "data": {
+    "https://github.com/google/go-cloud": {
+      "tags": [
+        "cicd"
+      ],
+      "meta": {
+        "title": "google/go-cloud",
+        "type": "repo",
+        "updated": 1760007387870,
+        "updated3": 1760007445404,
+        "created": 1760007387870
+      }
+    },
+    "https://github.com/jenkinsci/docker-agent": {
+      "tags": [
+        "cicd"
+      ],
+      "meta": {
+        "title": "jenkinsci/docker-agent",
+        "type": "repo",
+        "updated": 1760007341920,
+        "updated3": 1760007445404,
+        "created": 1760007330997
+      }
+    },
+    "https://www.youtube.com/watch?v=-wC_Oosh1Mw": {
+      "tags": [
+        "better-me"
+      ],
+      "meta": {
+        "title": "How to Get Ahead of 99% of Software Engineers (in 2025)",
+        "type": "video",
+        "updated": 1760007046749,
+        "updated3": 1760007445404,
+        "created": 1760007046749
+      }
+    },
     "https://www.explainthis.io/zh-hant/swe/backend": {
       "tags": [
         "面试",
@@ -820,19 +856,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759999893048,
+      "uploadTimestamp": 1760007445405,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759995744022,
-      "currentSyncTimestamp": 1759999893046
+      "lastDataChangeTimestamp": 1759999893046,
+      "currentSyncTimestamp": 1760007445404
     },
     "stats": {
-      "bookmarksCount": 69,
+      "bookmarksCount": 72,
       "tagsCount": 46,
-      "totalTagsCount": 95,
+      "totalTagsCount": 98,
       "domainsCount": 22
     },
-    "updated": 1759999893048,
+    "updated": 1760007445405,
     "created": 1759153414057
   }
 }
