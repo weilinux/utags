@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://freedium.cfd/https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520": {
+      "tags": [
+        "db"
+      ],
+      "meta": {
+        "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide— Part 1",
+        "updated": 1759979840221,
+        "updated3": 1759980143392,
+        "created": 1759979840221
+      }
+    },
     "https://www.youtube.com/@eggtoopain": {
       "tags": [
         "read-later"
@@ -753,19 +764,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1759935193186,
+      "uploadTimestamp": 1759980143392,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1759934303940,
-      "currentSyncTimestamp": 1759935193185
+      "lastDataChangeTimestamp": 1759935193185,
+      "currentSyncTimestamp": 1759980143392
     },
     "stats": {
-      "bookmarksCount": 63,
+      "bookmarksCount": 64,
       "tagsCount": 43,
-      "totalTagsCount": 88,
-      "domainsCount": 18
+      "totalTagsCount": 89,
+      "domainsCount": 19
     },
-    "updated": 1759935193186,
+    "updated": 1759980143392,
     "created": 1759153414057
   }
 }
