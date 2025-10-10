@@ -1,5 +1,18 @@
 {
   "data": {
+    "https://www.youtube.com/watch?v=BCYlUmzMmyc": {
+      "tags": [
+        "★",
+        "better-me"
+      ],
+      "meta": {
+        "title": "7 Years of Software Engineering Advice in 18 Minutes",
+        "type": "video",
+        "updated": 1760063689476,
+        "updated3": 1760064022584,
+        "created": 1760063689476
+      }
+    },
     "https://gist.github.com/search?l=Markdown&q=backend+design": {
       "tags": [
         "码农笔记"
@@ -867,19 +880,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760009722877,
+      "uploadTimestamp": 1760064022584,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760007445404,
-      "currentSyncTimestamp": 1760009722876
+      "lastDataChangeTimestamp": 1760009722876,
+      "currentSyncTimestamp": 1760064022584
     },
     "stats": {
-      "bookmarksCount": 73,
+      "bookmarksCount": 74,
       "tagsCount": 46,
-      "totalTagsCount": 99,
+      "totalTagsCount": 101,
       "domainsCount": 23
     },
-    "updated": 1760009722877,
+    "updated": 1760064022584,
     "created": 1759153414057
   }
 }
