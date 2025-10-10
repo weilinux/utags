@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://geek.shanyue.tech/": {
+      "tags": [
+        "资源",
+        "付费资源"
+      ],
+      "meta": {
+        "title": "掘金课程",
+        "updated": 1760118244571,
+        "updated3": 1760118548881,
+        "created": 1760118244571
+      }
+    },
     "https://developer.aliyun.com/article/1413504": {
       "tags": [
         "面试",
@@ -905,19 +917,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760117500769,
+      "uploadTimestamp": 1760118548882,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760089148136,
-      "currentSyncTimestamp": 1760117500768
+      "lastDataChangeTimestamp": 1760117500768,
+      "currentSyncTimestamp": 1760118548881
     },
     "stats": {
-      "bookmarksCount": 76,
-      "tagsCount": 46,
-      "totalTagsCount": 105,
-      "domainsCount": 23
+      "bookmarksCount": 77,
+      "tagsCount": 47,
+      "totalTagsCount": 107,
+      "domainsCount": 24
     },
-    "updated": 1760117500769,
+    "updated": 1760118548882,
     "created": 1759153414057
   }
 }
