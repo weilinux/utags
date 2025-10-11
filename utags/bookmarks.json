@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://github.com/awesee/books/tree/main/Go/Gopher%20China%202019": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Gopher China 2019",
+        "type": "dir",
+        "updated": 1760180290131,
+        "updated3": 1760180616547,
+        "created": 1760180290131
+      }
+    },
     "https://geek.shanyue.tech/": {
       "tags": [
         "资源",
@@ -917,19 +929,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760118548882,
+      "uploadTimestamp": 1760180616548,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760117500768,
-      "currentSyncTimestamp": 1760118548881
+      "lastDataChangeTimestamp": 1760118548881,
+      "currentSyncTimestamp": 1760180616547
     },
     "stats": {
-      "bookmarksCount": 77,
+      "bookmarksCount": 78,
       "tagsCount": 47,
-      "totalTagsCount": 107,
+      "totalTagsCount": 108,
       "domainsCount": 24
     },
-    "updated": 1760118548882,
+    "updated": 1760180616548,
     "created": 1759153414057
   }
 }
