@@ -1,5 +1,27 @@
 {
   "data": {
+    "https://juejin.cn/book/6844733792683458573?suid=1556564164489389&scrollMenuIndex=0": {
+      "tags": [
+        "付费资源"
+      ],
+      "meta": {
+        "title": "juejin- 图解 Kafka 之核心原理",
+        "updated": 1760191307580,
+        "updated3": 1760191616900,
+        "created": 1760191307580
+      }
+    },
+    "https://juejin.cn/video/7031152677996363779/section/7031152678222856195?suid=1556564164489389": {
+      "tags": [
+        "付费资源"
+      ],
+      "meta": {
+        "title": "Go工程实践",
+        "updated": 1760191242070,
+        "updated3": 1760191616900,
+        "created": 1760191242070
+      }
+    },
     "https://github.com/awesee/books/tree/main/Go/Gopher%20China%202019": {
       "tags": [
         "read-later"
@@ -929,19 +951,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760180616548,
+      "uploadTimestamp": 1760191616902,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760118548881,
-      "currentSyncTimestamp": 1760180616547
+      "lastDataChangeTimestamp": 1760180616547,
+      "currentSyncTimestamp": 1760191616900
     },
     "stats": {
-      "bookmarksCount": 78,
+      "bookmarksCount": 80,
       "tagsCount": 47,
-      "totalTagsCount": 108,
+      "totalTagsCount": 110,
       "domainsCount": 24
     },
-    "updated": 1760180616548,
+    "updated": 1760191616902,
     "created": 1759153414057
   }
 }
