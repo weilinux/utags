@@ -1,5 +1,29 @@
 {
   "data": {
+    "https://github.com/monklof/Back-End-Developer-Interview-Questions": {
+      "tags": [
+        "面试",
+        "后端面试"
+      ],
+      "meta": {
+        "title": "monklof/Back-End-Developer-Interview-Questions",
+        "type": "repo",
+        "updated": 1760192356234,
+        "updated3": 1760192725004,
+        "created": 1760192356234
+      }
+    },
+    "https://juejin.cn/video/7046282096435789835/section/7046282181542428704?suid=1556564164489389": {
+      "tags": [
+        "付费资源"
+      ],
+      "meta": {
+        "title": "Go组件设计与实现",
+        "updated": 1760192260495,
+        "updated3": 1760192725004,
+        "created": 1760192260495
+      }
+    },
     "https://juejin.cn/book/6844733792683458573?suid=1556564164489389&scrollMenuIndex=0": {
       "tags": [
         "付费资源"
@@ -951,19 +975,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760191616902,
+      "uploadTimestamp": 1760192725005,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760180616547,
-      "currentSyncTimestamp": 1760191616900
+      "lastDataChangeTimestamp": 1760191616900,
+      "currentSyncTimestamp": 1760192725004
     },
     "stats": {
-      "bookmarksCount": 80,
+      "bookmarksCount": 82,
       "tagsCount": 47,
-      "totalTagsCount": 110,
+      "totalTagsCount": 113,
       "domainsCount": 24
     },
-    "updated": 1760191616902,
+    "updated": 1760192725005,
     "created": 1759153414057
   }
 }
