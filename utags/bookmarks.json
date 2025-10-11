@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://freedium.cfd/https://rajputlakhveer.medium.com/major-algorithms-every-programmer-should-know-6d09f20b31aa": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Major Algorithms Every Programmer Should Know",
+        "updated": 1760193664224,
+        "updated3": 1760193977296,
+        "created": 1760193664224
+      }
+    },
     "https://www.cake.me/resources/interview-guide/top-10-developer-programmer-job-interview-questions": {
       "tags": [
         "面试"
@@ -986,19 +997,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760193495236,
+      "uploadTimestamp": 1760193977297,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760192725004,
-      "currentSyncTimestamp": 1760193495235
+      "lastDataChangeTimestamp": 1760193495235,
+      "currentSyncTimestamp": 1760193977296
     },
     "stats": {
-      "bookmarksCount": 83,
+      "bookmarksCount": 84,
       "tagsCount": 47,
-      "totalTagsCount": 114,
+      "totalTagsCount": 115,
       "domainsCount": 25
     },
-    "updated": 1760193495236,
+    "updated": 1760193977297,
     "created": 1759153414057
   }
 }
