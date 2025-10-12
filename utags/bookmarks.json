@@ -1,5 +1,29 @@
 {
   "data": {
+    "https://github.com/topics/good-first-pr": {
+      "tags": [
+        "pr",
+        "first-pr"
+      ],
+      "meta": {
+        "title": "topic- good-first-pr",
+        "updated": 1760241629469,
+        "updated3": 1760261228553,
+        "created": 1760241629469
+      }
+    },
+    "https://github.com/topics/beginner-friendly": {
+      "tags": [
+        "pr",
+        "first-pr"
+      ],
+      "meta": {
+        "title": "topic- beginner-friendly",
+        "updated": 1760241588223,
+        "updated3": 1760261228553,
+        "created": 1760241588223
+      }
+    },
     "https://github.com/topics/contributions-welcome?l=go": {
       "tags": [
         "pr",
@@ -1031,19 +1055,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760240735497,
+      "uploadTimestamp": 1760261228555,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760195125813,
-      "currentSyncTimestamp": 1760240735496
+      "lastDataChangeTimestamp": 1760240735496,
+      "currentSyncTimestamp": 1760261228553
     },
     "stats": {
-      "bookmarksCount": 87,
+      "bookmarksCount": 89,
       "tagsCount": 49,
-      "totalTagsCount": 119,
+      "totalTagsCount": 123,
       "domainsCount": 26
     },
-    "updated": 1760240735497,
+    "updated": 1760261228555,
     "created": 1759153414057
   }
 }
