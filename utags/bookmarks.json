@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://github.com/staugur/userscript": {
+      "tags": [
+        "Tampermonkey"
+      ],
+      "meta": {
+        "title": "staugur/userscript",
+        "type": "repo",
+        "updated": 1760277029965,
+        "updated3": 1760277381200,
+        "created": 1760277006808
+      }
+    },
     "https://www.yuque.com/zetaleee/zcz4b2": {
       "tags": [
         "gopher在线"
@@ -1066,19 +1078,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760271841928,
+      "uploadTimestamp": 1760277381201,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760261228553,
-      "currentSyncTimestamp": 1760271841926
+      "lastDataChangeTimestamp": 1760271841926,
+      "currentSyncTimestamp": 1760277381200
     },
     "stats": {
-      "bookmarksCount": 90,
+      "bookmarksCount": 91,
       "tagsCount": 50,
-      "totalTagsCount": 124,
+      "totalTagsCount": 125,
       "domainsCount": 27
     },
-    "updated": 1760271841928,
+    "updated": 1760277381201,
     "created": 1759153414057
   }
 }
