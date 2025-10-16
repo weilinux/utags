@@ -1,5 +1,29 @@
 {
   "data": {
+    "https://github.com/leohxj/a-programmer-prepares": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "程序员的自我修养》/a-programmer-prepares",
+        "type": "repo",
+        "updated": 1760609574148,
+        "updated3": 1760621664552,
+        "created": 1760609538303
+      }
+    },
+    "https://github.com/ahangchen/How-to-Be-A-Programmer-CN": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "]如何做好一枚程序员 How-to-Be-A-Programmer-CN",
+        "type": "repo",
+        "updated": 1760609449563,
+        "updated3": 1760621664552,
+        "created": 1760609425802
+      }
+    },
     "https://github.com/staugur/userscript": {
       "tags": [
         "Tampermonkey"
@@ -1075,22 +1099,22 @@
     "databaseVersion": 3,
     "lastUploadDevice": {
       "deviceId": "Q2HYB21LFDE0MC4W-mg4w598q",
-      "browser": "Chrome 140.0",
+      "browser": "Chrome 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760277381201,
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "uploadTimestamp": 1760621664553,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760271841926,
-      "currentSyncTimestamp": 1760277381200
+      "lastDataChangeTimestamp": 1760277381200,
+      "currentSyncTimestamp": 1760621664552
     },
     "stats": {
-      "bookmarksCount": 91,
+      "bookmarksCount": 93,
       "tagsCount": 50,
-      "totalTagsCount": 125,
+      "totalTagsCount": 127,
       "domainsCount": 27
     },
-    "updated": 1760277381201,
+    "updated": 1760621664553,
     "created": 1759153414057
   }
 }
