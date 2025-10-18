@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://github.com/jarulraj/periodic-table": {
+      "tags": [
+        "程序员训练场"
+      ],
+      "meta": {
+        "title": "jarulraj/periodic-table",
+        "type": "repo",
+        "updated": 1760774396650,
+        "updated3": 1760774790825,
+        "created": 1760774396650
+      }
+    },
     "https://bgww.apachecn.org/": {
       "tags": [
         "面试",
@@ -1114,19 +1126,19 @@
       "browser": "Chrome 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760696680703,
+      "uploadTimestamp": 1760774790826,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760621664552,
-      "currentSyncTimestamp": 1760696680702
+      "lastDataChangeTimestamp": 1760696680702,
+      "currentSyncTimestamp": 1760774790825
     },
     "stats": {
-      "bookmarksCount": 94,
+      "bookmarksCount": 95,
       "tagsCount": 50,
-      "totalTagsCount": 129,
+      "totalTagsCount": 130,
       "domainsCount": 28
     },
-    "updated": 1760696680703,
+    "updated": 1760774790826,
     "created": 1759153414057
   }
 }
