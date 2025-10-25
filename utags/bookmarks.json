@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://houbb.github.io/blog-future/": {
+      "tags": [
+        "ai好入门"
+      ],
+      "meta": {
+        "title": "老马啸西风-AI-dify入门",
+        "updated": 1761388690757,
+        "updated3": 1761388996732,
+        "created": 1761388690757
+      }
+    },
     "https://github.com/jarulraj/periodic-table": {
       "tags": [
         "程序员训练场"
@@ -1126,19 +1137,19 @@
       "browser": "Chrome 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760774790826,
+      "uploadTimestamp": 1761388996735,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760696680702,
-      "currentSyncTimestamp": 1760774790825
+      "lastDataChangeTimestamp": 1760774790825,
+      "currentSyncTimestamp": 1761388996732
     },
     "stats": {
-      "bookmarksCount": 95,
-      "tagsCount": 50,
-      "totalTagsCount": 130,
-      "domainsCount": 28
+      "bookmarksCount": 96,
+      "tagsCount": 51,
+      "totalTagsCount": 131,
+      "domainsCount": 29
     },
-    "updated": 1760774790826,
+    "updated": 1761388996735,
     "created": 1759153414057
   }
 }
