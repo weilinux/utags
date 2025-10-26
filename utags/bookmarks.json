@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://github.com/XiaomingX/awesome-qwen-prompt-insight": {
+      "tags": [
+        "ai好入门"
+      ],
+      "meta": {
+        "title": "XiaomingX/awesome-qwen-prompt-insight",
+        "type": "repo",
+        "updated": 1761489151209,
+        "updated3": 1761489523810,
+        "created": 1761489151209
+      }
+    },
     "https://grep.app/search?f.lang=Go&f.lang.pattern=go&q=Paypal": {
       "tags": [
         "码农笔记"
@@ -1160,19 +1172,19 @@
       "browser": "Chrome 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761485649949,
+      "uploadTimestamp": 1761489523820,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760774790825,
-      "currentSyncTimestamp": 1761485649945
+      "lastDataChangeTimestamp": 1761484760307,
+      "currentSyncTimestamp": 1761489523810
     },
     "stats": {
-      "bookmarksCount": 98,
+      "bookmarksCount": 99,
       "tagsCount": 51,
-      "totalTagsCount": 133,
+      "totalTagsCount": 134,
       "domainsCount": 29
     },
-    "updated": 1761485649949,
+    "updated": 1761489523820,
     "created": 1759153414057
   }
 }
