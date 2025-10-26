@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://grep.app/search?f.lang=Go&f.lang.pattern=go&q=Paypal": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- Paypal- 不要乱点",
+        "updated": 1761485326924,
+        "updated3": 1761485649945,
+        "created": 1761485326924
+      }
+    },
     "https://github.com/ashishps1/awesome-low-level-design/tree/main/design-patterns/golang": {
       "tags": [
         "read-later"
@@ -1149,19 +1160,19 @@
       "browser": "Chrome 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761484760308,
+      "uploadTimestamp": 1761485649949,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1761388996732,
-      "currentSyncTimestamp": 1761484760307
+      "lastDataChangeTimestamp": 1760774790825,
+      "currentSyncTimestamp": 1761485649945
     },
     "stats": {
-      "bookmarksCount": 97,
+      "bookmarksCount": 98,
       "tagsCount": 51,
-      "totalTagsCount": 132,
+      "totalTagsCount": 133,
       "domainsCount": 29
     },
-    "updated": 1761484760308,
+    "updated": 1761485649949,
     "created": 1759153414057
   }
 }
