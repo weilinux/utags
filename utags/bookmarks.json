@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://github.com/ashishps1/awesome-low-level-design/tree/main/design-patterns/golang": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "golang",
+        "type": "dir",
+        "updated": 1761484445548,
+        "updated3": 1761484760307,
+        "created": 1761484445548
+      }
+    },
     "https://houbb.github.io/blog-future/": {
       "tags": [
         "ai好入门"
@@ -1137,19 +1149,19 @@
       "browser": "Chrome 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761388996735,
+      "uploadTimestamp": 1761484760308,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1760774790825,
-      "currentSyncTimestamp": 1761388996732
+      "lastDataChangeTimestamp": 1761388996732,
+      "currentSyncTimestamp": 1761484760307
     },
     "stats": {
-      "bookmarksCount": 96,
+      "bookmarksCount": 97,
       "tagsCount": 51,
-      "totalTagsCount": 131,
+      "totalTagsCount": 132,
       "domainsCount": 29
     },
-    "updated": 1761388996735,
+    "updated": 1761484760308,
     "created": 1759153414057
   }
 }
