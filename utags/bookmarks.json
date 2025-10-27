@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://grep.app/search?f.lang=Markdown&q=kafka.NewReader%28kafka.ReaderConfig": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- kafka.NewReader(kafka.ReaderConfig)- 不要乱点",
+        "updated": 1761551647629,
+        "updated3": 1761551707934,
+        "created": 1761551647629
+      }
+    },
     "https://github.com/XiaomingX/awesome-qwen-prompt-insight": {
       "tags": [
         "ai好入门"
@@ -1172,19 +1183,19 @@
       "browser": "Chrome 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761489523820,
+      "uploadTimestamp": 1761551707936,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1761484760307,
-      "currentSyncTimestamp": 1761489523810
+      "lastDataChangeTimestamp": 1761485649945,
+      "currentSyncTimestamp": 1761551707934
     },
     "stats": {
-      "bookmarksCount": 99,
+      "bookmarksCount": 100,
       "tagsCount": 51,
-      "totalTagsCount": 134,
+      "totalTagsCount": 135,
       "domainsCount": 29
     },
-    "updated": 1761489523820,
+    "updated": 1761551707936,
     "created": 1759153414057
   }
 }
