@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://github.com/radovskyb/go-packages": {
+      "tags": [
+        "go stdlib"
+      ],
+      "meta": {
+        "title": "radovskyb/go-packages",
+        "type": "repo",
+        "updated": 1761920869157,
+        "updated3": 1761920882856,
+        "created": 1761920869157
+      }
+    },
     "https://github.com/ruanyf/weekly": {
       "tags": [
         "码农期刊"
@@ -1220,19 +1232,19 @@
       "browser": "Chrome 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761726722702,
+      "uploadTimestamp": 1761920882860,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1761723722332,
-      "currentSyncTimestamp": 1761726722698
+      "lastDataChangeTimestamp": 1761622203137,
+      "currentSyncTimestamp": 1761920882856
     },
     "stats": {
-      "bookmarksCount": 103,
-      "tagsCount": 55,
-      "totalTagsCount": 139,
+      "bookmarksCount": 104,
+      "tagsCount": 56,
+      "totalTagsCount": 140,
       "domainsCount": 29
     },
-    "updated": 1761726722702,
+    "updated": 1761920882860,
     "created": 1759153414057
   }
 }
