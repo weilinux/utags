@@ -1,0 +1,2944 @@
+{
+  "data": {
+    "https://github.com/wathenjiang/SimpleClearFileIO/blob/main/1.%20page%20cache.md": {
+      "tags": [
+        "fantastic",
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "1. page cache.md",
+        "type": "file",
+        "updated": 1768985062000,
+        "updated3": 1768985109323,
+        "created": 1768985062000
+      }
+    },
+    "https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2024/day02.md": {
+      "tags": [
+        "awesome-sre",
+        "fantastic"
+      ],
+      "meta": {
+        "title": "day02.md",
+        "type": "file",
+        "updated": 1768985022896,
+        "updated3": 1768985109323,
+        "created": 1768985022896
+      }
+    },
+    "https://boilingfrog.github.io/2024/04/24/%E4%BB%80%E4%B9%88%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%80%9D%E7%BB%B4/": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "什么是工程师思维",
+        "updated": 1767279009070,
+        "updated3": 1768561508198,
+        "created": 1767279009070
+      }
+    },
+    "https://kylinlingh.github.io/2023/06/28/%E6%BA%90%E7%A0%81-spicedb-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B9%8B%E7%AC%AC%E4%B8%80%E7%AF%87-%E7%83%AD%E7%82%B9%E7%BC%93%E5%AD%98/#%E8%87%AA%E5%AE%9A%E4%B9%89-Resolver": {
+      "tags": [
+        "源码分析"
+      ],
+      "meta": {
+        "title": "spicedb: 源码阅读之第一篇",
+        "updated": 1767274391130,
+        "updated3": 1768561508198,
+        "created": 1767274365915
+      }
+    },
+    "https://github.com/gocn/opentalk": {
+      "tags": [
+        "fantastic",
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "gocn/opentalk",
+        "type": "repo",
+        "updated": 1766891084807,
+        "updated3": 1768561508198,
+        "created": 1766891084807
+      }
+    },
+    "https://github.com/tayllan/awesome-algorithms": {
+      "tags": [
+        "dsa精品仓库"
+      ],
+      "meta": {
+        "title": "tayllan/awesome-algorithms",
+        "type": "repo",
+        "updated": 1766848367372,
+        "updated3": 1768561508198,
+        "created": 1766848367372
+      }
+    },
+    "https://github.com/MisterBooo/Article": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "MisterBooo/Article",
+        "type": "repo",
+        "updated": 1766497862984,
+        "updated3": 1768561508198,
+        "created": 1766497862984
+      }
+    },
+    "https://github.com/ahmetb/kubectl-node_resource": {
+      "tags": [
+        "k8s"
+      ],
+      "meta": {
+        "title": "ahmetb/kubectl-node_resource",
+        "type": "repo",
+        "updated": 1766117606057,
+        "updated3": 1768561508198,
+        "created": 1766117606057
+      }
+    },
+    "https://github.com/neargle/re0-kubernetes-sec-archive": {
+      "tags": [
+        "k8s"
+      ],
+      "meta": {
+        "title": "neargle/re0-kubernetes-sec-archive",
+        "type": "repo",
+        "updated": 1766117567087,
+        "updated3": 1768561508198,
+        "created": 1766117567087
+      }
+    },
+    "https://github.com/ashishps1/awesome-system-design-resources": {
+      "tags": [
+        "后端面试",
+        "awesome-sre",
+        "fantastic"
+      ],
+      "meta": {
+        "title": "ashishps1/awesome-system-design-resources",
+        "type": "repo",
+        "updated": 1766028633949,
+        "updated3": 1768561508198,
+        "created": 1766028633949
+      }
+    },
+    "https://github.com/lee501/go-notes": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "lee501/go-notes",
+        "type": "repo",
+        "updated": 1765805927449,
+        "updated3": 1765853646504,
+        "created": 1765805927449
+      }
+    },
+    "https://github.com/tangwz/db-monthly": {
+      "tags": [
+        "码农期刊",
+        "sre精品仓"
+      ],
+      "meta": {
+        "title": "tangwz/db-monthly",
+        "type": "repo",
+        "updated": 1765805246147,
+        "updated3": 1765853646504,
+        "created": 1765805246147
+      }
+    },
+    "https://github.com/wdndev/llm_interview_note": {
+      "tags": [
+        "ai普及"
+      ],
+      "meta": {
+        "title": "wdndev/llm_interview_note",
+        "type": "repo",
+        "updated": 1765805015245,
+        "updated3": 1765853646504,
+        "created": 1765805015245
+      }
+    },
+    "https://github.com/omerbsezer/Fast-Kubernetes": {
+      "tags": [
+        "k8s"
+      ],
+      "meta": {
+        "title": "omerbsezer/Fast-Kubernetes",
+        "type": "repo",
+        "updated": 1765804399946,
+        "updated3": 1765853646504,
+        "created": 1765804399946
+      }
+    },
+    "https://github.com/ICKelin/article": {
+      "tags": [
+        "awesome-go",
+        "sre精品仓"
+      ],
+      "meta": {
+        "title": "ICKelin/article",
+        "type": "repo",
+        "updated": 1765804361601,
+        "updated3": 1765853646504,
+        "created": 1765804361601
+      }
+    },
+    "https://github.com/bootcs-cn/engineer_competency_framework": {
+      "tags": [
+        "sre精品仓",
+        "awesome-sre",
+        "面试"
+      ],
+      "meta": {
+        "title": "bootcs-cn/engineer_competency_framework",
+        "type": "repo",
+        "updated": 1765803491099,
+        "updated3": 1765853646504,
+        "created": 1765803491099
+      }
+    },
+    "https://github.com/firasuke/awesome": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "firasuke/awesome",
+        "type": "repo",
+        "updated": 1765801192198,
+        "updated3": 1765853646504,
+        "created": 1765801192198
+      }
+    },
+    "https://dunwu.github.io/design/pages/9a462f/#%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84%E7%AE%80%E4%BB%8B": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "系统高可用架构",
+        "updated": 1765725577085,
+        "updated3": 1765853646504,
+        "created": 1765725577085
+      }
+    },
+    "https://coolshell.cn/articles/21672.html": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "我做系统架构的一些原则",
+        "updated": 1765725477927,
+        "updated3": 1765853646504,
+        "created": 1765725477927
+      }
+    },
+    "https://github.com/toutiaoio/awesome-architecture": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "架构师技术图谱，助你早日成为架构师",
+        "updated": 1765725430975,
+        "updated3": 1765853646504,
+        "created": 1765725430975
+      }
+    },
+    "https://github.com/jiujuan/go-collection": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "jiujuan/go-collection",
+        "type": "repo",
+        "updated": 1765724329201,
+        "updated3": 1765853646504,
+        "created": 1765724329201
+      }
+    },
+    "https://marklodato.github.io/visual-git-guide/index-en.html": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "A Visual Git Reference",
+        "updated": 1765714136308,
+        "updated3": 1765853646504,
+        "created": 1765714136308
+      }
+    },
+    "https://github.com/shgopher/GOFamily": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "shgopher/GOFamily",
+        "type": "repo",
+        "updated": 1765699790499,
+        "updated3": 1765853646504,
+        "created": 1765699790499
+      }
+    },
+    "https://github.com/baiyutang/meetup": {
+      "tags": [
+        "资源",
+        "后端资源"
+      ],
+      "meta": {
+        "title": "互联网大厂技术分享PPT",
+        "updated": 1765698011676,
+        "updated3": 1765853646504,
+        "created": 1765698011676
+      }
+    },
+    "https://grep.app/search?f.lang.pattern=go&q=%E5%8A%A0%E8%BD%BD%E7%B4%A2%E5%BC%95": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 加载索引- 不要乱点",
+        "updated": 1765680120006,
+        "updated3": 1765853646504,
+        "created": 1765680120006
+      }
+    },
+    "https://github.com/rShetty/awesome-podcasts": {
+      "tags": [
+        "资源",
+        "podcast"
+      ],
+      "meta": {
+        "title": "rShetty/awesome-podcasts",
+        "type": "repo",
+        "updated": 1765550882880,
+        "updated3": 1765853646504,
+        "created": 1765550882880
+      }
+    },
+    "https://github.com/guipdutra/awesome-geek-podcasts": {
+      "tags": [
+        "资源",
+        "podcast"
+      ],
+      "meta": {
+        "title": "guipdutra/awesome-geek-podcasts",
+        "type": "repo",
+        "updated": 1765550852275,
+        "updated3": 1765853646504,
+        "created": 1765550852275
+      }
+    },
+    "https://github.com/pbnj/awesome-podcasts": {
+      "tags": [
+        "资源",
+        "podcast"
+      ],
+      "meta": {
+        "title": "pbnj/awesome-podcasts",
+        "type": "repo",
+        "updated": 1765550842629,
+        "updated3": 1765853646504,
+        "created": 1765550842629
+      }
+    },
+    "https://github.com/astavonin/go-optimization-guide": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "astavonin/go-optimization-guide",
+        "type": "repo",
+        "updated": 1765524358415,
+        "updated3": 1765853646504,
+        "created": 1765524358415
+      }
+    },
+    "https://rednafi.com/go/interface-segregation/": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Revisiting interface segregation in Go",
+        "updated": 1765508605790,
+        "updated3": 1765853646504,
+        "created": 1765508605790
+      }
+    },
+    "https://github.com/bigwhite/gopherdaily/blob/master/202511/issue-20251102.md": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "gopher 日报",
+        "updated": 1765354732288,
+        "updated3": 1765853646504,
+        "created": 1765354732288
+      }
+    },
+    "https://github.com/lifei6671/interview-go/blob/master/mysql/mysql-interview.md": {
+      "tags": [
+        "后端面试"
+      ],
+      "meta": {
+        "title": "MySQL数据库经典面试题解析",
+        "updated": 1765183977465,
+        "updated3": 1765853646504,
+        "created": 1765183977465
+      }
+    },
+    "https://github.com/cch123/golang-notes": {
+      "tags": [
+        "awesome-go",
+        "fantastic"
+      ],
+      "meta": {
+        "title": "cch123/golang-notes",
+        "type": "repo",
+        "updated": 1765183801651,
+        "updated3": 1765853646504,
+        "created": 1765183801651
+      }
+    },
+    "https://github.com/0voice/Introduction-to-Golang": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "0voice/Introduction-to-Golang",
+        "type": "repo",
+        "updated": 1765183738318,
+        "updated3": 1765853646504,
+        "created": 1765183738318
+      }
+    },
+    "https://github.com/gravitational/workshop": {
+      "tags": [
+        "awesome-sre",
+        "k8s"
+      ],
+      "meta": {
+        "title": "gravitational/workshop",
+        "type": "repo",
+        "updated": 1765178994879,
+        "updated3": 1765853646504,
+        "created": 1765178994879
+      }
+    },
+    "https://github.com/hwholiday/learning_tools": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "hwholiday/learning_tools",
+        "type": "repo",
+        "updated": 1765178397840,
+        "updated3": 1765853646504,
+        "created": 1765178397840
+      }
+    },
+    "https://github.com/duke-git/lancet": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "duke-git/lancet",
+        "type": "repo",
+        "updated": 1765120413411,
+        "updated3": 1765853646504,
+        "created": 1765120413411
+      }
+    },
+    "https://github.com/Dentrax/Data-Structures-with-Go": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "Dentrax/Data-Structures-with-Go",
+        "type": "repo",
+        "updated": 1765120350054,
+        "updated3": 1765853646504,
+        "created": 1765120350054
+      }
+    },
+    "https://github.com/nikolaydubina/go-recipes": {
+      "tags": [
+        "awesome-go",
+        "read-later"
+      ],
+      "meta": {
+        "title": "nikolaydubina/go-recipes",
+        "type": "repo",
+        "updated": 1765120017122,
+        "updated3": 1765853646504,
+        "created": 1765120017122
+      }
+    },
+    "https://github.com/jincheng9/go-tutorial/blob/main/workspace/senior/p28/02-go-benchmark-inline.md": {
+      "tags": [
+        "awesome-go",
+        "read-later"
+      ],
+      "meta": {
+        "title": "02-go-benchmark-inline.md",
+        "type": "file",
+        "updated": 1765023634027,
+        "updated3": 1765853646504,
+        "created": 1765023634027
+      }
+    },
+    "https://github.com/duanbiaowu/go-examples-for-beginners/blob/master/performance/singleflight.md": {
+      "tags": [
+        "awesome-go",
+        "read-later"
+      ],
+      "meta": {
+        "title": "singleflight.md",
+        "type": "file",
+        "updated": 1765023474572,
+        "updated3": 1765853646504,
+        "created": 1765023474572
+      }
+    },
+    "https://github.com/mjhea0/awesome-fastapi": {
+      "tags": [
+        "fastAPI"
+      ],
+      "meta": {
+        "title": "mjhea0/awesome-fastapi",
+        "type": "repo",
+        "updated": 1764945126640,
+        "updated3": 1765853646504,
+        "created": 1764945126640
+      }
+    },
+    "https://github.com/lixd/grpc-go-example": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "lixd/grpc-go-example",
+        "type": "repo",
+        "updated": 1764945083487,
+        "updated3": 1765853646504,
+        "created": 1764945083487
+      }
+    },
+    "https://github.com/unitedrhino/things": {
+      "tags": [
+        "IoT"
+      ],
+      "meta": {
+        "title": "unitedrhino/things",
+        "type": "repo",
+        "updated": 1764945012964,
+        "updated3": 1765853646504,
+        "created": 1764945012964
+      }
+    },
+    "https://github.com/sagoo-cloud/sagooiot": {
+      "tags": [
+        "IoT"
+      ],
+      "meta": {
+        "title": "sagoo-cloud/sagooiot",
+        "type": "repo",
+        "updated": 1764944983294,
+        "updated3": 1765853646504,
+        "created": 1764944983294
+      }
+    },
+    "https://github.com/PandaXGO/PandaXUi": {
+      "tags": [
+        "IoT"
+      ],
+      "meta": {
+        "title": "PandaXGO/PandaXUi",
+        "type": "repo",
+        "updated": 1764944962697,
+        "updated3": 1765853646504,
+        "created": 1764944962697
+      }
+    },
+    "https://github.com/raycad/devops-roadmap": {
+      "tags": [
+        "awesome-sre",
+        "read-later"
+      ],
+      "meta": {
+        "title": "raycad/devops-roadmap",
+        "type": "repo",
+        "updated": 1764944853298,
+        "updated3": 1765853646504,
+        "created": 1764944853298
+      }
+    },
+    "https://github.com/XiaomingX/indie-hacker-tools-plus": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "XiaomingX/indie-hacker-tools-plus",
+        "type": "repo",
+        "updated": 1764943370112,
+        "updated3": 1765853646504,
+        "created": 1764943370112
+      }
+    },
+    "https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#go": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "别人开发的GO应用",
+        "updated": 1764936539096,
+        "updated3": 1765853646504,
+        "created": 1764936539096
+      }
+    },
+    "https://github.com/binhnguyennus/awesome-scalability": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "binhnguyennus/awesome-scalability",
+        "type": "repo",
+        "updated": 1764936034990,
+        "updated3": 1765853646504,
+        "created": 1764936034990
+      }
+    },
+    "https://blog.serverfault.com/2013/11/26/the-importance-of-observability/": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "The Importance of Observability",
+        "updated": 1764935817380,
+        "updated3": 1765853646504,
+        "created": 1764935817380
+      }
+    },
+    "https://github.com/xiaojiaqi/deploy-microservices-to-a-Kubernetes-cluster": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "xiaojiaqi/deploy-microservices-to-a-Kubernetes-cluster",
+        "type": "repo",
+        "updated": 1764823252470,
+        "updated3": 1765853646504,
+        "created": 1764823252470
+      }
+    },
+    "https://github.com/hellogcc/osdt-weekly": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "hellogcc/osdt-weekly",
+        "type": "repo",
+        "updated": 1764821345139,
+        "updated3": 1765853646504,
+        "created": 1764821345139
+      }
+    },
+    "https://github.com/aphyr/distsys-class": {
+      "tags": [
+        "awesome-分布式",
+        "read-later"
+      ],
+      "meta": {
+        "title": "aphyr/distsys-class",
+        "type": "repo",
+        "updated": 1764820614826,
+        "updated3": 1765853646504,
+        "created": 1764820601100
+      }
+    },
+    "https://github.com/ruanrunxue/Practice-Design-Pattern--Go-Implementation": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "ruanrunxue/Practice-Design-Pattern--Go-Implementation",
+        "type": "repo",
+        "updated": 1764776471026,
+        "updated3": 1765853646504,
+        "created": 1764776471026
+      }
+    },
+    "https://github.com/ruanrunxue/DCI-Architecture-Implementation": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "ruanrunxue/DCI-Architecture-Implementation",
+        "type": "repo",
+        "updated": 1764776387327,
+        "updated3": 1765853646504,
+        "created": 1764776387327
+      }
+    },
+    "https://github.com/lixd/daily-notes/tree/master/Golang": {
+      "tags": [
+        "码农笔记",
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "Golang",
+        "type": "dir",
+        "updated": 1764775259131,
+        "updated3": 1765853646504,
+        "created": 1764775259131
+      }
+    },
+    "https://github.com/ljinkai/weekly": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "ljinkai/weekly",
+        "type": "repo",
+        "updated": 1764775079054,
+        "updated3": 1765853646504,
+        "created": 1764775079054
+      }
+    },
+    "https://github.com/tingaicompass/AI-Compass": {
+      "tags": [
+        "ai普及"
+      ],
+      "meta": {
+        "title": "tingaicompass/AI-Compass",
+        "type": "repo",
+        "updated": 1764774722945,
+        "updated3": 1765853646504,
+        "created": 1764774722945
+      }
+    },
+    "https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "performance-zh.md",
+        "type": "file",
+        "updated": 1764771369710,
+        "updated3": 1765853646504,
+        "created": 1764771369710
+      }
+    },
+    "https://github.com/shomali11/go-interview": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "shomali11/go-interview",
+        "type": "repo",
+        "updated": 1764771326130,
+        "updated3": 1765853646504,
+        "created": 1764771326130
+      }
+    },
+    "https://github.com/donnemartin/system-design-primer": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "donnemartin/system-design-primer",
+        "type": "repo",
+        "updated": 1764770570919,
+        "updated3": 1765853646504,
+        "created": 1764770570919
+      }
+    },
+    "https://github.com/dwmkerr/hacker-laws": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "dwmkerr/hacker-laws",
+        "type": "repo",
+        "updated": 1764770502582,
+        "updated3": 1765853646504,
+        "created": 1764770502582
+      }
+    },
+    "https://github.com/xuanli199/weekly": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "保存玄离199每周科技补全中提到的各种软件和项目",
+        "updated": 1764769795907,
+        "updated3": 1765853646504,
+        "created": 1764769795907
+      }
+    },
+    "https://github.com/mxssl/sre-interview-prep-guide": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "mxssl/sre-interview-prep-guide",
+        "type": "repo",
+        "updated": 1764748076660,
+        "updated3": 1765853646504,
+        "created": 1764748076660
+      }
+    },
+    "https://github.com/gojue/ebpf-slide": {
+      "tags": [
+        "fantastic",
+        "awesome-sre",
+        "sre精品仓"
+      ],
+      "meta": {
+        "title": "gojue/ebpf-slide",
+        "type": "repo",
+        "updated": 1765724912166,
+        "updated3": 1765853646504,
+        "created": 1764746268433
+      }
+    },
+    "https://github.com/yangpeng14/DevOps/blob/master/architecture/%E6%9E%B6%E6%9E%84%E6%9D%82%E8%B0%88.md": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "架构杂谈.md",
+        "type": "file",
+        "updated": 1764734653735,
+        "updated3": 1765853646504,
+        "created": 1764734653735
+      }
+    },
+    "https://github.com/liquanzhou/ops_doc": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "liquanzhou/ops_doc",
+        "type": "repo",
+        "updated": 1764731575870,
+        "updated3": 1765853646504,
+        "created": 1764731575870
+      }
+    },
+    "https://github.com/jackluo2012/learn": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "jackluo2012/learn",
+        "type": "repo",
+        "updated": 1764730695307,
+        "updated3": 1765853646504,
+        "created": 1764730695307
+      }
+    },
+    "https://github.com/sjmshsh/Go-Learn": {
+      "tags": [
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "go-learn-git",
+        "updated": 1764730443570,
+        "updated3": 1765853646504,
+        "created": 1764730443570
+      }
+    },
+    "https://github.com/mingongge/BestSRE": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "mingongge/BestSRE",
+        "type": "repo",
+        "updated": 1764728838193,
+        "updated3": 1765853646504,
+        "created": 1764728838193
+      }
+    },
+    "https://github.com/opsre/awesome-ops": {
+      "tags": [
+        "sre精品仓"
+      ],
+      "meta": {
+        "title": "opsre/awesome-ops",
+        "type": "repo",
+        "updated": 1764685134971,
+        "updated3": 1765853646504,
+        "created": 1764685134971
+      }
+    },
+    "https://github.com/overnote/over-golang": {
+      "tags": [
+        "fantastic",
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "overnote/over-golang",
+        "type": "repo",
+        "updated": 1764684954060,
+        "updated3": 1765853646504,
+        "created": 1764684954060
+      }
+    },
+    "https://github.com/xiaolincoder/CS-Base": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "xiaolincoder/CS-Base",
+        "type": "repo",
+        "updated": 1764679043412,
+        "updated3": 1765853646504,
+        "created": 1764679043412
+      }
+    },
+    "https://github.com/roma-glushko/awesome-distributed-system-projects": {
+      "tags": [
+        "sre精品仓"
+      ],
+      "meta": {
+        "title": "roma-glushko/awesome-distributed-system-projects",
+        "type": "repo",
+        "updated": 1764603527882,
+        "updated3": 1765853646504,
+        "created": 1764603527882
+      }
+    },
+    "https://github.com/0voice/k8s_awesome_document": {
+      "tags": [
+        "k8s",
+        "sre精品仓"
+      ],
+      "meta": {
+        "title": "0voice/k8s_awesome_document",
+        "type": "repo",
+        "updated": 1764603341704,
+        "updated3": 1765853646504,
+        "created": 1764603341704
+      }
+    },
+    "https://github.com/easychen/lean-side-bussiness": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "easychen/lean-side-bussiness",
+        "type": "repo",
+        "updated": 1764603280546,
+        "updated3": 1765853646504,
+        "created": 1764603280546
+      }
+    },
+    "https://github.com/ben1234560/k8s_PaaS": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "ben1234560/k8s_PaaS",
+        "type": "repo",
+        "updated": 1764602961608,
+        "updated3": 1765853646504,
+        "created": 1764602961608
+      }
+    },
+    "https://github.com/varg1714/my-barin": {
+      "tags": [
+        "fantastic",
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "varg1714/my-barin",
+        "type": "repo",
+        "updated": 1764584776794,
+        "updated3": 1765853646504,
+        "created": 1764584776794
+      }
+    },
+    "https://github.com/viraptor/reverse-interview": {
+      "tags": [
+        "job"
+      ],
+      "meta": {
+        "title": "viraptor/reverse-interview",
+        "type": "repo",
+        "updated": 1764583571805,
+        "updated3": 1764583629974,
+        "created": 1764583571805
+      }
+    },
+    "https://github.com/ByteByteGoHq/system-design-101": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "ByteByteGoHq/system-design-101",
+        "type": "repo",
+        "updated": 1764583427523,
+        "updated3": 1764583510602,
+        "created": 1764583427523
+      }
+    },
+    "https://github.com/pibigstar/go-demo": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "pibigstar/go-demo",
+        "type": "repo",
+        "updated": 1764582824016,
+        "updated3": 1764582841914,
+        "created": 1764582824016
+      }
+    },
+    "https://github.com/greyireland/algorithm-pattern": {
+      "tags": [
+        "fantastic",
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "greyireland/algorithm-pattern",
+        "type": "repo",
+        "updated": 1764582748069,
+        "updated3": 1764582771925,
+        "created": 1764582748069
+      }
+    },
+    "https://github.com/xiaobaiTech/golangFamily": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "xiaobaiTech/golangFamily",
+        "type": "repo",
+        "updated": 1764580686657,
+        "updated3": 1764580702550,
+        "created": 1764580686657
+      }
+    },
+    "https://github.com/jackfrued/Python-100-Days": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "jackfrued/Python-100-Days",
+        "type": "repo",
+        "updated": 1764576629208,
+        "updated3": 1764576691924,
+        "created": 1764576629208
+      }
+    },
+    "https://github.com/zhaocong6/Reading": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "zhaocong6/Reading",
+        "type": "repo",
+        "updated": 1764575604232,
+        "updated3": 1764575641932,
+        "created": 1764575604232
+      }
+    },
+    "https://mubu.com/explore/P0uNMqVj_Q": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "幕布-程序员面试基础汇总",
+        "updated": 1764574221592,
+        "created": 1764574221592
+      }
+    },
+    "https://github.com/dastergon/awesome-chaos-engineering": {
+      "tags": [
+        "sre精品仓"
+      ],
+      "meta": {
+        "title": "dastergon/awesome-chaos-engineering",
+        "type": "repo",
+        "updated": 1764573577942,
+        "updated3": 1764573601920,
+        "created": 1764573577942
+      }
+    },
+    "https://github.com/mao888/golang-guide": {
+      "tags": [
+        "fantastic",
+        "后端面试"
+      ],
+      "meta": {
+        "title": "mao888/golang-guide",
+        "type": "repo",
+        "updated": 1765536814208,
+        "updated3": 1765853646504,
+        "created": 1764572715776
+      }
+    },
+    "https://grep.app/search?f.lang=Go&q=%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 业务场景- 不要乱点",
+        "updated": 1764571735148,
+        "created": 1764571735148
+      }
+    },
+    "https://github.com/wx-chevalier/Awesome-Methodologies": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "wx-chevalier/Awesome-Methodologies",
+        "type": "repo",
+        "updated": 1764564985380,
+        "updated3": 1764571703291,
+        "created": 1764564985380
+      }
+    },
+    "https://www.youtube.com/@maximumeducation": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Christopher Kalodikis",
+        "type": "user",
+        "updated": 1764517008206,
+        "updated3": 1764517046836,
+        "created": 1764517008206
+      }
+    },
+    "https://langyastudio.github.io/langya-doc/#/": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "廖雪峰-程序员知识完全扫盲",
+        "updated": 1764515087083,
+        "updated3": 1764516908652,
+        "created": 1764515087083
+      }
+    },
+    "https://learnku.com/articles/63968": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "updated": 1764514902904,
+        "updated3": 1764516908652,
+        "created": 1764514902904
+      }
+    },
+    "https://colobu.com/2022/07/31/2022-rpc-frameworks-benchmarks/": {
+      "tags": [
+        "benchmark"
+      ],
+      "meta": {
+        "title": "2022 Go生态圈 rpc 框架 Benchmark",
+        "updated": 1764514681530,
+        "updated3": 1764516908652,
+        "created": 1764514681530
+      }
+    },
+    "https://ningyu1.github.io/site/post/99-rpc-benchmark1/": {
+      "tags": [
+        "benchmark"
+      ],
+      "meta": {
+        "updated": 1764514631354,
+        "updated3": 1764516908652,
+        "created": 1764514631354
+      }
+    },
+    "https://so1n.me/2021/10/29/RPC%E6%A1%86%E6%9E%B6%E7%BC%96%E5%86%99%E5%AE%9E%E8%B7%B5--%E4%BC%98%E5%8C%96%E6%A1%86%E6%9E%B6%E6%80%A7%E8%83%BD%E6%B5%81%E6%B0%B4%E6%97%A5%E8%AE%B0/": {
+      "tags": [
+        "RPC优化"
+      ],
+      "meta": {
+        "updated": 1764514264397,
+        "updated3": 1764516908652,
+        "created": 1764514264397
+      }
+    },
+    "https://www.cnblogs.com/wzh2010/p/15642251.html": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "微服务7：通信之RPC",
+        "updated": 1764514186808,
+        "updated3": 1764516908652,
+        "created": 1764514162489
+      }
+    },
+    "https://zq99299.github.io/note-architect/hc/": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "高并发系统设计 40 问",
+        "updated": 1764514049944,
+        "updated3": 1764516908652,
+        "created": 1764514049944
+      }
+    },
+    "https://heapdump.cn/article/2603574": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "updated": 1764513894006,
+        "updated3": 1764516908652,
+        "created": 1764513894006
+      }
+    },
+    "https://perf.bcmeng.com/": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "OLAP 数据库性能优化指南--各层面优化",
+        "updated": 1764513825378,
+        "updated3": 1764516908652,
+        "created": 1764513825378
+      }
+    },
+    "https://github.com/BaiZe1998/go-learning": {
+      "tags": [
+        "码农笔记",
+        "fantastic"
+      ],
+      "meta": {
+        "title": "BaiZe1998/go-learning",
+        "type": "repo",
+        "updated": 1764570496077,
+        "updated3": 1764571703291,
+        "created": 1764513145252
+      }
+    },
+    "https://github.com/shfshanyue/Daily-Question": {
+      "tags": [
+        "面试"
+      ],
+      "meta": {
+        "title": "shfshanyue/Daily-Question",
+        "type": "repo",
+        "updated": 1764512780860,
+        "updated3": 1764516908652,
+        "created": 1764512780860
+      }
+    },
+    "https://github.com/genesismission/beat-ai": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "genesismission/beat-ai",
+        "type": "repo",
+        "updated": 1764508768351,
+        "updated3": 1764516908652,
+        "created": 1764508768351
+      }
+    },
+    "https://www.mszlu.com/docs/pay/gin.html#_1-%E6%89%80%E7%94%A8%E6%8A%80%E6%9C%AF": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "简历包装",
+        "updated": 1764410461579,
+        "updated3": 1764516908652,
+        "created": 1764410461579
+      }
+    },
+    "https://github.com/cloudogu/gitops-patterns": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "cloudogu/gitops-patterns",
+        "type": "repo",
+        "updated": 1764407711379,
+        "updated3": 1764516908652,
+        "created": 1764407711379
+      }
+    },
+    "https://github.com/dastergon/awesome-sre": {
+      "tags": [
+        "sre精品仓",
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "dastergon/awesome-sre",
+        "type": "repo",
+        "updated": 1764929373181,
+        "updated3": 1765853646504,
+        "created": 1764405357792
+      }
+    },
+    "https://github.com/DeekshithSN/Prometheus": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "DeekshithSN/Prometheus",
+        "type": "repo",
+        "updated": 1764398168331,
+        "updated3": 1764516908652,
+        "created": 1764398168331
+      }
+    },
+    "https://www.zhihu.com/question/281186541": {
+      "tags": [
+        "资源"
+      ],
+      "meta": {
+        "title": "关于 go 语言，有什么值得关注的技术博客或网站？",
+        "updated": 1764387116096,
+        "updated3": 1764397388757,
+        "created": 1764387116096
+      }
+    },
+    "https://github.com/emirpasic/gods": {
+      "tags": [
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "emirpasic/gods",
+        "type": "repo",
+        "updated": 1764378619742,
+        "updated3": 1764397388757,
+        "created": 1764378619742
+      }
+    },
+    "https://www.sciencebuddies.org/science-fair-projects/science-fair/steps-of-the-scientific-method": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "updated": 1764346467348,
+        "updated3": 1764397388757,
+        "created": 1764346467348
+      }
+    },
+    "https://github.com/rohitg00/DevOpsCommunity": {
+      "tags": [
+        "devops"
+      ],
+      "meta": {
+        "title": "rohitg00/DevOpsCommunity",
+        "type": "repo",
+        "updated": 1764346203216,
+        "updated3": 1764397388757,
+        "created": 1764346203216
+      }
+    },
+    "https://bytebytego.com/guides/8-key-concepts-in-ddd/": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "BytebyteGo--图文并茂的",
+        "updated": 1764345797568,
+        "updated3": 1764397388757,
+        "created": 1764345797568
+      }
+    },
+    "https://github.com/lm-rebooter/NuggetsBooklet/tree/master/%E4%BB%8E%200%20%E5%88%B0%201%20%E8%90%BD%E5%9C%B0%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "从 0 到 1 落地前端工程化",
+        "type": "dir",
+        "updated": 1764344398369,
+        "updated3": 1764397388757,
+        "created": 1764344398369
+      }
+    },
+    "https://grep.app/search?f.lang=Markdown&q=%E6%95%B0%E6%8D%AE%E6%8E%A8%E9%80%81": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 数据推送- 不要乱点",
+        "updated": 1764344332139,
+        "updated3": 1764397388757,
+        "created": 1764344332139
+      }
+    },
+    "https://github.com/lm-rebooter/NuggetsBooklet/tree/master/%E5%9F%BA%E4%BA%8E%20Go%20%E8%AF%AD%E8%A8%80%E6%9E%84%E5%BB%BA%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%9A%84%20RESTful%20API%20%E6%9C%8D%E5%8A%A1": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "基于 Go 语言构建企业级的 RESTful API 服务",
+        "type": "dir",
+        "updated": 1764344250314,
+        "updated3": 1764397388757,
+        "created": 1764344250314
+      }
+    },
+    "https://www.youtube.com/watch?v=KWUFZ-le3vQ": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "COMPLETE Web Development Roadmap for 2025 [90 Days]",
+        "type": "video",
+        "updated": 1764343618659,
+        "updated3": 1764397388757,
+        "created": 1764343618659
+      }
+    },
+    "https://github.com/sharadbhat/KubernetesPatterns": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "sharadbhat/KubernetesPatterns",
+        "type": "repo",
+        "updated": 1764337634368,
+        "updated3": 1764397388757,
+        "created": 1764337634368
+      }
+    },
+    "https://www.qikqiak.com/k3s/network/service/": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "Kubernetes 进阶训练营(第3期)",
+        "updated": 1764337577878,
+        "updated3": 1764397388757,
+        "created": 1764337577878
+      }
+    },
+    "https://www.youtube.com/@codewithjay": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "Code with Jay",
+        "type": "user",
+        "updated": 1764336165760,
+        "updated3": 1764397388757,
+        "created": 1764336165760
+      }
+    },
+    "https://www.youtube.com/@SoftwareDeveloperDiaries": {
+      "tags": [
+        "fantastic"
+      ],
+      "meta": {
+        "title": "@SoftwareDeveloperDiaries",
+        "updated": 1764336033679,
+        "updated3": 1764397388757,
+        "created": 1764336033679
+      }
+    },
+    "https://zhonghua.io/2017/10/14/hunter-1/": {
+      "tags": [
+        "可观测性"
+      ],
+      "meta": {
+        "title": "链路跟踪系统(一):理论篇",
+        "updated": 1764335218725,
+        "updated3": 1764397388757,
+        "created": 1764335218725
+      }
+    },
+    "https://www.youtube.com/@sahilandsarra": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Sahil & Sarra",
+        "type": "user",
+        "updated": 1764334778960,
+        "updated3": 1764397388757,
+        "created": 1764334778960
+      }
+    },
+    "https://github.com/wx-satellite/learning-algorithm": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "wx-satellite/learning-algorithm",
+        "type": "repo",
+        "updated": 1764329236603,
+        "updated3": 1764397388757,
+        "created": 1764329236603
+      }
+    },
+    "https://github.com/peanut-cc/ent_orm_notes": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "peanut-cc/ent_orm_notes",
+        "type": "repo",
+        "updated": 1764329085683,
+        "updated3": 1764397388757,
+        "created": 1764329085683
+      }
+    },
+    "https://github.com/search?q=+%E7%AC%94%E8%AE%B0+language%3AGo+&type=repositories&p=1": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "相关笔记-go",
+        "updated": 1764327291472,
+        "updated3": 1764397388757,
+        "created": 1764327291472
+      }
+    },
+    "https://github.com/xjh22222228/git-manual": {
+      "tags": [
+        "git"
+      ],
+      "meta": {
+        "title": "xjh22222228/git-manual",
+        "type": "repo",
+        "updated": 1764227088971,
+        "updated3": 1764397388757,
+        "created": 1764227088971
+      }
+    },
+    "https://pphc.lvwenhan.com/part-two/infrastructure-concurrency": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "johnlui/PPHC--基础设施高并发",
+        "updated": 1763959156164,
+        "updated3": 1764397388757,
+        "created": 1763884124085
+      }
+    },
+    "https://github.com/hapiman/weekly/blob/main/001.md": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "001.md",
+        "type": "file",
+        "updated": 1763788958711,
+        "updated3": 1764397388757,
+        "created": 1763788958711
+      }
+    },
+    "https://www.itdks.com/ActivityC/index?type=meet&cate_id=203": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "行业大会",
+        "updated": 1763306864071,
+        "created": 1763306864071
+      }
+    },
+    "https://grep.app/search?f.lang=Markdown&f.lang=Go&q=Testing+HTTP+Clients+": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- Testing HTTP Clients - 不要乱点",
+        "updated": 1763306521145,
+        "created": 1763306521145
+      }
+    },
+    "https://www.devopsunboundpodcast.com/page/2/": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "podcast-devops",
+        "updated": 1763305352526,
+        "created": 1763305336057
+      }
+    },
+    "https://platformengineeringpodcast.podbean.com/": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "podcast-platform",
+        "updated": 1763305164156,
+        "created": 1763305164156
+      }
+    },
+    "https://www.youtube.com/@nitishfy": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Nitish Kumar",
+        "type": "user",
+        "updated": 1762529171974,
+        "updated3": 1762529287667,
+        "created": 1762529171974
+      }
+    },
+    "https://github.com/rfyiamcool/share_ppt": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "rfyiamcool/share_ppt",
+        "type": "repo",
+        "updated": 1762354011939,
+        "updated3": 1762354029575,
+        "created": 1762354011939
+      }
+    },
+    "https://github.com/bluecity2048/learning-k8s-source-code/blob/master/kubectl/(01)%20kubectl%E4%B8%BB%E4%BD%93%E6%B5%81%E7%A8%8B.md": {
+      "tags": [
+        "源码分析",
+        "k8s源码"
+      ],
+      "meta": {
+        "title": "(01) kubectl主体流程.md v1.5.2/go1.7.5 很详细",
+        "type": "file",
+        "updated": 1762334081619,
+        "updated3": 1762333491406,
+        "created": 1762333450056
+      }
+    },
+    "https://github.com/hellgoddess/PythonGuide/blob/main/docs/%E4%B8%80%E6%96%87%E5%AD%A6%E4%BC%9APython%E5%8D%81%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "一文学会Python十大排序算法.md",
+        "type": "file",
+        "updated": 1762325285272,
+        "updated3": 1762325345704,
+        "created": 1762325285272
+      }
+    },
+    "https://github.com/kesonan/golang-notes/blob/main/example/grpc/balancer/balancer.md": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "balancer.md",
+        "type": "file",
+        "updated": 1762316169382,
+        "updated3": 1762316178081,
+        "created": 1762316169382
+      }
+    },
+    "https://github.com/kilimchoi/engineering-blogs": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "kilimchoi/engineering-blogs",
+        "type": "repo",
+        "updated": 1762315945865,
+        "updated3": 1762315951637,
+        "created": 1762315945865
+      }
+    },
+    "https://github.com/Nghiait123456/GolangAdvance/tree/master/Style/10_UnnecessaryElse": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "10_UnnecessaryElse",
+        "type": "dir",
+        "updated": 1762268034150,
+        "updated3": 1762268105875,
+        "created": 1762268034150
+      }
+    },
+    "https://github.com/gopherchina/conference": {
+      "tags": [
+        "gopher在线",
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "gopherchina/conference",
+        "type": "repo",
+        "updated": 1764772332697,
+        "updated3": 1765853646504,
+        "created": 1762253826201
+      }
+    },
+    "https://github.com/enocom/gopher-reading-list": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "enocom/gopher-reading-list",
+        "type": "repo",
+        "updated": 1762253713204,
+        "updated3": 1762253767102,
+        "created": 1762253713204
+      }
+    },
+    "https://www.cyhone.com/categories/go-internal/": {
+      "tags": [
+        "源码分析"
+      ],
+      "meta": {
+        "title": "go源码分析",
+        "updated": 1761968500613,
+        "created": 1761968500613
+      }
+    },
+    "https://github.com/radovskyb/go-packages": {
+      "tags": [
+        "go stdlib"
+      ],
+      "meta": {
+        "title": "radovskyb/go-packages",
+        "type": "repo",
+        "updated": 1761920869157,
+        "updated3": 1761920882612,
+        "created": 1761920869157
+      }
+    },
+    "https://github.com/ruanyf/weekly": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "ruanyf/weekly",
+        "type": "repo",
+        "updated": 1761726336424,
+        "updated3": 1761726361560,
+        "created": 1761726336424
+      }
+    },
+    "https://github.com/digoal/pgsql_admin_script/blob/master/pgsql_perf_tuning.md": {
+      "tags": [
+        "性能的故事",
+        "tuning"
+      ],
+      "meta": {
+        "title": "pgsql_perf_tuning.md",
+        "type": "file",
+        "updated": 1761723367606,
+        "updated3": 1761723392494,
+        "created": 1761723367606
+      }
+    },
+    "https://github.com/DXHeroes/knowledge-base-content": {
+      "tags": [
+        "码农素养"
+      ],
+      "meta": {
+        "title": "DXHeroes/knowledge-base-content",
+        "type": "repo",
+        "updated": 1761621885620,
+        "updated3": 1761621901873,
+        "created": 1761621885620
+      }
+    },
+    "https://grep.app/search?f.lang=Markdown&q=kafka.NewReader%28kafka.ReaderConfig": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- kafka.NewReader(kafka.ReaderConfig)- 不要乱点",
+        "updated": 1761551647629,
+        "created": 1761551647629
+      }
+    },
+    "https://github.com/XiaomingX/awesome-qwen-prompt-insight": {
+      "tags": [
+        "ai好入门"
+      ],
+      "meta": {
+        "title": "XiaomingX/awesome-qwen-prompt-insight",
+        "type": "repo",
+        "updated": 1761489151209,
+        "updated3": 1761489199961,
+        "created": 1761489151209
+      }
+    },
+    "https://grep.app/search?f.lang=Go&f.lang.pattern=go&q=Paypal": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- Paypal- 不要乱点",
+        "updated": 1761485326924,
+        "updated3": 1761485351919,
+        "created": 1761485326924
+      }
+    },
+    "https://github.com/ashishps1/awesome-low-level-design/tree/main/design-patterns/golang": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "golang",
+        "type": "dir",
+        "updated": 1761484445548,
+        "updated3": 1761484501319,
+        "created": 1761484445548
+      }
+    },
+    "https://houbb.github.io/blog-future/": {
+      "tags": [
+        "ai好入门"
+      ],
+      "meta": {
+        "title": "老马啸西风-AI-dify入门",
+        "updated": 1761388690757,
+        "updated3": 1761388740630,
+        "created": 1761388690757
+      }
+    },
+    "https://github.com/jarulraj/periodic-table": {
+      "tags": [
+        "程序员训练场"
+      ],
+      "meta": {
+        "title": "jarulraj/periodic-table",
+        "type": "repo",
+        "updated": 1760774396650,
+        "updated3": 1760774453174,
+        "created": 1760774396650
+      }
+    },
+    "https://bgww.apachecn.org/": {
+      "tags": [
+        "面试",
+        "后端面试"
+      ],
+      "meta": {
+        "title": "原理与现实结合好-【布客】八股文知识库",
+        "updated": 1760696377729,
+        "updated3": 1760696429112,
+        "created": 1760696377729
+      }
+    },
+    "https://github.com/leohxj/a-programmer-prepares": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "程序员的自我修养》/a-programmer-prepares",
+        "type": "repo",
+        "updated": 1760609574148,
+        "updated3": 1760691143481,
+        "created": 1760609538303
+      }
+    },
+    "https://github.com/ahangchen/How-to-Be-A-Programmer-CN": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "]如何做好一枚程序员 How-to-Be-A-Programmer-CN",
+        "type": "repo",
+        "updated": 1760609449563,
+        "updated3": 1760691143481,
+        "created": 1760609425802
+      }
+    },
+    "https://github.com/staugur/userscript": {
+      "tags": [
+        "Tampermonkey"
+      ],
+      "meta": {
+        "title": "staugur/userscript",
+        "type": "repo",
+        "updated": 1760277029965,
+        "updated3": 1760691143481,
+        "created": 1760277006808
+      }
+    },
+    "https://www.yuque.com/zetaleee/zcz4b2": {
+      "tags": [
+        "gopher在线"
+      ],
+      "meta": {
+        "title": "yuque-Golang文档",
+        "updated": 1760271530828,
+        "updated3": 1760691143481,
+        "created": 1760271530828
+      }
+    },
+    "https://github.com/topics/good-first-pr": {
+      "tags": [
+        "pr",
+        "first-pr"
+      ],
+      "meta": {
+        "title": "topic- good-first-pr",
+        "updated": 1760241629469,
+        "updated3": 1760691143481,
+        "created": 1760241629469
+      }
+    },
+    "https://github.com/topics/beginner-friendly": {
+      "tags": [
+        "pr",
+        "first-pr"
+      ],
+      "meta": {
+        "title": "topic- beginner-friendly",
+        "updated": 1760241588223,
+        "updated3": 1760691143481,
+        "created": 1760241588223
+      }
+    },
+    "https://github.com/topics/contributions-welcome?l=go": {
+      "tags": [
+        "pr",
+        "first-pr"
+      ],
+      "meta": {
+        "title": "topic- contributions-welcome",
+        "updated": 1760240424584,
+        "updated3": 1760691143481,
+        "created": 1760240424584
+      }
+    },
+    "https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories": {
+      "tags": [
+        "github"
+      ],
+      "meta": {
+        "title": "A-collection-of-useful-repositories",
+        "updated": 1760194819049,
+        "updated3": 1760194942973,
+        "created": 1760194819049
+      }
+    },
+    "https://www.google.com/search?q=site%3Agithub.io+Actor+Model&sca_esv=482a21e8193752b1&sxsrf=AE3TifOh7KFcyfHyxVDHhbyAZwQGY4z4CQ%3A1756392334383&ei=jmuwaMSRF9eH1e8PycuagQw&ved=0ahUKEwjEkLWp362PAxXXQ_UHHcmlJsAQ4dUDCBA&uact=5&oq=site%3Agithub.io+Actor+Model&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnNpdGU6Z2l0aHViLmlvIEFjdG9yIE1vZGVsSI0YUMwVWMwVcAF4AZABAJgBc6ABc6oBAzAuMbgBA8gBAPgBAZgCAaACCMICBxAjGLADGCfCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcBMaAHLbIHALgHAMIHAzItMcgHBg&sclient=gws-wiz-serp": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "gg site:github.io Actor Model",
+        "updated": 1760194614237,
+        "updated3": 1760194702994,
+        "created": 1760194614237
+      }
+    },
+    "https://freedium.cfd/https://rajputlakhveer.medium.com/major-algorithms-every-programmer-should-know-6d09f20b31aa": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Major Algorithms Every Programmer Should Know",
+        "updated": 1760193664224,
+        "updated3": 1760193802977,
+        "created": 1760193664224
+      }
+    },
+    "https://www.cake.me/resources/interview-guide/top-10-developer-programmer-job-interview-questions": {
+      "tags": [
+        "面试"
+      ],
+      "meta": {
+        "title": "30 个面试问题集、面试问题提问技巧",
+        "updated": 1760193188536,
+        "updated3": 1760193323028,
+        "created": 1760193188536
+      }
+    },
+    "https://github.com/monklof/Back-End-Developer-Interview-Questions": {
+      "tags": [
+        "面试",
+        "后端面试"
+      ],
+      "meta": {
+        "title": "monklof/Back-End-Developer-Interview-Questions",
+        "type": "repo",
+        "updated": 1760192356234,
+        "updated3": 1760192362971,
+        "created": 1760192356234
+      }
+    },
+    "https://juejin.cn/video/7046282096435789835/section/7046282181542428704?suid=1556564164489389": {
+      "tags": [
+        "付费资源"
+      ],
+      "meta": {
+        "title": "Go组件设计与实现",
+        "updated": 1760192260495,
+        "updated3": 1760192362971,
+        "created": 1760192260495
+      }
+    },
+    "https://juejin.cn/book/6844733792683458573?suid=1556564164489389&scrollMenuIndex=0": {
+      "tags": [
+        "付费资源"
+      ],
+      "meta": {
+        "title": "juejin- 图解 Kafka 之核心原理",
+        "updated": 1760191307580,
+        "updated3": 1760191402987,
+        "created": 1760191307580
+      }
+    },
+    "https://juejin.cn/video/7031152677996363779/section/7031152678222856195?suid=1556564164489389": {
+      "tags": [
+        "付费资源"
+      ],
+      "meta": {
+        "title": "Go工程实践",
+        "updated": 1760191242070,
+        "updated3": 1760191283200,
+        "created": 1760191242070
+      }
+    },
+    "https://github.com/awesee/books/tree/main/Go/Gopher%20China%202019": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Gopher China 2019",
+        "type": "dir",
+        "updated": 1760180290131,
+        "updated3": 1760180305816,
+        "created": 1760180290131
+      }
+    },
+    "https://geek.shanyue.tech/": {
+      "tags": [
+        "资源",
+        "付费资源"
+      ],
+      "meta": {
+        "title": "掘金课程",
+        "updated": 1760118244571,
+        "updated3": 1760118323056,
+        "created": 1760118244571
+      }
+    },
+    "https://developer.aliyun.com/article/1413504": {
+      "tags": [
+        "面试",
+        "后端面试"
+      ],
+      "meta": {
+        "title": "后端面试常见面试题",
+        "updated": 1760117195791,
+        "updated3": 1760117303156,
+        "created": 1760117195791
+      }
+    },
+    "https://github.com/yongxinz/backend-interview": {
+      "tags": [
+        "面试",
+        "后端面试"
+      ],
+      "meta": {
+        "title": "yongxinz/backend-interview",
+        "type": "repo",
+        "updated": 1760088776689,
+        "updated3": 1760088803058,
+        "created": 1760088718837
+      }
+    },
+    "https://www.youtube.com/watch?v=BCYlUmzMmyc": {
+      "tags": [
+        "★",
+        "better-me"
+      ],
+      "meta": {
+        "title": "7 Years of Software Engineering Advice in 18 Minutes",
+        "type": "video",
+        "updated": 1760063689476,
+        "updated3": 1760063783124,
+        "created": 1760063689476
+      }
+    },
+    "https://gist.github.com/search?l=Markdown&q=backend+design": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "backend design on gist.github.com",
+        "updated": 1760008354685,
+        "updated3": 1760009651113,
+        "created": 1760008354685
+      }
+    },
+    "https://github.com/google/go-cloud": {
+      "tags": [
+        "cicd"
+      ],
+      "meta": {
+        "title": "google/go-cloud",
+        "type": "repo",
+        "updated": 1760007387870,
+        "updated3": 1760007443139,
+        "created": 1760007387870
+      }
+    },
+    "https://github.com/jenkinsci/docker-agent": {
+      "tags": [
+        "cicd"
+      ],
+      "meta": {
+        "title": "jenkinsci/docker-agent",
+        "type": "repo",
+        "updated": 1760007341920,
+        "updated3": 1760007443139,
+        "created": 1760007330997
+      }
+    },
+    "https://www.youtube.com/watch?v=-wC_Oosh1Mw": {
+      "tags": [
+        "better-me"
+      ],
+      "meta": {
+        "title": "How to Get Ahead of 99% of Software Engineers (in 2025)",
+        "type": "video",
+        "updated": 1760007046749,
+        "updated3": 1760007083088,
+        "created": 1760007046749
+      }
+    },
+    "https://www.explainthis.io/zh-hant/swe/backend": {
+      "tags": [
+        "面试",
+        "后端面试"
+      ],
+      "meta": {
+        "title": "后端工程面试详解- 导览",
+        "updated": 1759999538894,
+        "updated3": 1759999652145,
+        "created": 1759999538894
+      }
+    },
+    "https://blog.algomaster.io/p/system-design-how-to-scale-a-database": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "System Design: How to Scale a Database",
+        "updated": 1759995431588,
+        "updated3": 1759995503920,
+        "created": 1759995431588
+      }
+    },
+    "https://grep.app/search?f.lang.pattern=go&q=%E8%BF%9C%E7%A8%8B%E8%BF%87%E7%A8%8B%E8%B0%83%E7%94%A8": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 远程过程调用- 不要乱点",
+        "updated": 1759995326663,
+        "updated3": 1759995383277,
+        "created": 1759995326663
+      }
+    },
+    "https://grep.app/search?q=rpc%E5%B0%81%E8%A3%85": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep-rpc封装 - 不要乱点",
+        "updated": 1759995188008,
+        "updated3": 1759995264083,
+        "created": 1759995188008
+      }
+    },
+    "https://zhuyasen.com/post/learn_better.html#toc_7": {
+      "tags": [
+        "better-me"
+      ],
+      "meta": {
+        "title": "有效学习摘录",
+        "updated": 1759990068060,
+        "updated3": 1759990163158,
+        "created": 1759990068060
+      }
+    },
+    "https://freedium.cfd/https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520": {
+      "tags": [
+        "db"
+      ],
+      "meta": {
+        "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide— Part 1",
+        "updated": 1759979840221,
+        "updated3": 1759979963122,
+        "created": 1759979840221
+      }
+    },
+    "https://www.youtube.com/@eggtoopain": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "技术蛋老师",
+        "updated": 1759934890181,
+        "updated3": 1759935023138,
+        "created": 1759934890181
+      }
+    },
+    "https://www.youtube.com/watch?v=IUUpxfa1SSw": {
+      "tags": [
+        "★",
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "为什么关系数据库的挑战者都没有好下场【让编程再次伟大#25】",
+        "type": "video",
+        "updated": 1759933911553,
+        "updated3": 1759933943467,
+        "created": 1759933911553
+      }
+    },
+    "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "How I write HTTP services in Go after 13 years",
+        "updated": 1759933678395,
+        "updated3": 1759933705538,
+        "created": 1759933678395
+      }
+    },
+    "https://grep.app/search?f.lang=Go&q=+polling": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- polling- 不要乱点",
+        "updated": 1759889639854,
+        "updated3": 1759889663116,
+        "created": 1759889639854
+      }
+    },
+    "https://xiaojun90.github.io/blog/architecture/1026.html#%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84": {
+      "tags": [
+        "程序员训练场"
+      ],
+      "meta": {
+        "title": "Joyxj-架构设计-优秀文章",
+        "updated": 1759836720626,
+        "updated3": 1759848789579,
+        "created": 1759836720626
+      }
+    },
+    "https://grep.app/search?f.lang=Python&q=%E5%A4%84%E7%90%86%E5%90%88%E5%B9%B6": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 处理合并- 不要乱点",
+        "updated": 1759830577138,
+        "updated3": 1759848789579,
+        "created": 1759830577138
+      }
+    },
+    "https://grep.app/search?f.lang.pattern=go&q=+dblink": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- dblink- 不要乱点",
+        "updated": 1759830438803,
+        "updated3": 1759848789579,
+        "created": 1759830438803
+      }
+    },
+    "https://grep.app/search?f.lang=Go&f.lang.pattern=go&q=%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 操作日志- 不要乱点",
+        "updated": 1759830346795,
+        "updated3": 1759848789579,
+        "created": 1759830346795
+      }
+    },
+    "https://grep.app/search?f.lang.pattern=go&q=cli.ContainerCreate": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- cli.ContainerCreate- 不要乱点",
+        "updated": 1759829974525,
+        "updated3": 1759848789579,
+        "created": 1759829946506
+      }
+    },
+    "https://developer.aliyun.com/article/1530214": {
+      "tags": [
+        "程序员训练场"
+      ],
+      "meta": {
+        "title": "程序员的自我修养 - 架构主题简思",
+        "updated": 1759801623440,
+        "updated3": 1759848789579,
+        "created": 1759801623440
+      }
+    },
+    "https://pymlovelyq.github.io/posts/32a7f0eb/": {
+      "tags": [
+        "dsa精品仓库"
+      ],
+      "meta": {
+        "title": "算法数据结构+acm】学习之路吐血整理技术书从入门到进阶",
+        "updated": 1759799625575,
+        "updated3": 1759848789579,
+        "created": 1759799625575
+      }
+    },
+    "https://grep.app/search?f.lang=Go&f.lang.pattern=go&q=AssignPermissionToRole": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "github上的笔记-AssignPermissionToRole不要乱点",
+        "updated": 1759799169432,
+        "updated3": 1759848789579,
+        "created": 1759799169432
+      }
+    },
+    "https://grep.app/search?f.lang=Markdown&q=database-design": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- database-design- 不要乱点",
+        "updated": 1759741713090,
+        "updated3": 1759848789579,
+        "created": 1759741713090
+      }
+    },
+    "https://github.com/icopy-site/awesome-cn/blob/master/docs/awesome/awesome-algorithms.md": {
+      "tags": [
+        "dsa精品仓库"
+      ],
+      "meta": {
+        "title": "awesome-algorithms.md",
+        "type": "file",
+        "updated": 1759675576398,
+        "updated3": 1759848789579,
+        "created": 1759675365216
+      }
+    },
+    "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/about/cloudnative2_0/pdf0531/1661909291339187230.pdf": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "云原生2.0架构 白皮书",
+        "updated": 1759660068148,
+        "updated3": 1759848789579,
+        "created": 1759660068148
+      }
+    },
+    "https://grep.app/search?f.lang=Python&f.lang.pattern=python&q=%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 运维平台py- 不要乱点",
+        "updated": 1759656555615,
+        "updated3": 1759848789579,
+        "created": 1759656555615
+      }
+    },
+    "https://github.com/orgs/itsharex/repositories?type=source&q=language%3AGo+%E8%BF%90%E7%BB%B4": {
+      "tags": [
+        "go-repo"
+      ],
+      "meta": {
+        "title": "itsharex's 运维开源项目",
+        "updated": 1759631529116,
+        "updated3": 1759848789579,
+        "created": 1759631529116
+      }
+    },
+    "https://grep.app/search?f.lang=Go&f.lang.pattern=go&q=simple+note": {
+      "tags": [
+        "码农笔记",
+        "codegrep"
+      ],
+      "meta": {
+        "title": "codegrep-simple note-",
+        "updated": 1759626233654,
+        "updated3": 1759848789579,
+        "created": 1759626233654
+      }
+    },
+    "https://grep.app/search?f.lang=Go&q=%E4%B8%8A%E4%BC%A0%E8%A7%86%E9%A2%91": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- 上传视频- 不要乱点",
+        "updated": 1759591917786,
+        "updated3": 1759848789579,
+        "created": 1759591917786
+      }
+    },
+    "https://www.youtube.com/watch?v=lWSwvFNJg1g": {
+      "tags": [
+        "纠正错误"
+      ],
+      "meta": {
+        "title": "Always Be a Learner: Samurai Empty Cup Mindset",
+        "type": "video",
+        "updated": 1759591319936,
+        "updated3": 1759848789579,
+        "created": 1759591319936
+      }
+    },
+    "https://www.youtube.com/@MatthewSmith33": {
+      "tags": [
+        "纠正错误"
+      ],
+      "meta": {
+        "title": "Matthew Smith",
+        "type": "user",
+        "updated": 1759591275341,
+        "updated3": 1759848789579,
+        "created": 1759591182689
+      }
+    },
+    "https://www.youtube.com/watch?v=jyLXcy5SGd8": {
+      "tags": [
+        "纠正错误"
+      ],
+      "meta": {
+        "title": "\"Dopamine Loading\" is the EASIEST way to get ADDICTED to studying",
+        "type": "video",
+        "updated": 1759590769728,
+        "updated3": 1759848789579,
+        "created": 1759590769728
+      }
+    },
+    "https://c.biancheng.net/ml_alg/knn.html": {
+      "tags": [
+        "math"
+      ],
+      "meta": {
+        "title": "机器学习算法",
+        "updated": 1759584968704,
+        "updated3": 1759848789579,
+        "created": 1759584968704
+      }
+    },
+    "https://jvns.ca/blog/2014/10/02/how-does-sqlite-work-part-2-btrees/": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "从SQLite中确认Btrees的原理",
+        "updated": 1759547433632,
+        "updated3": 1759848789579,
+        "created": 1759547433632
+      }
+    },
+    "https://github.com/getanteon/alaz": {
+      "tags": [
+        "github",
+        "k8s"
+      ],
+      "meta": {
+        "title": "getanteon/alaz",
+        "type": "repo",
+        "updated": 1759545217101,
+        "updated3": 1759848789579,
+        "created": 1759545217101
+      }
+    },
+    "https://github.com/sharedvolume/shared-volume": {
+      "tags": [
+        "github",
+        "k8s"
+      ],
+      "meta": {
+        "title": "sharedvolume/shared-volume",
+        "type": "repo",
+        "updated": 1759545184165,
+        "updated3": 1759848789579,
+        "created": 1759545184165
+      }
+    },
+    "https://www.ruike1.com/thread-75945-1-1.html": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "[百度网盘] rk0202-JKSJ-初级go工程师训练营(完结)",
+        "updated": 1759483342484,
+        "updated3": 1759848789579,
+        "created": 1759483342484
+      }
+    },
+    "https://xiaojun90.github.io/blog/architecture/": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "Joyxj的架构设计-好书",
+        "updated": 1759482222391,
+        "updated3": 1759848789579,
+        "created": 1759482222391
+      }
+    },
+    "https://grep.app/search?f.lang=Go&q=TODO%3A+": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "codegrep- TODO- 不要乱点",
+        "updated": 1759479808693,
+        "updated3": 1759848789579,
+        "created": 1759479808693
+      }
+    },
+    "https://github.com/search?q=+%E7%AC%94%E8%AE%B0+language%3AGo+&type=repositories": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "github上的笔记-搜索-不要乱点",
+        "updated": 1759463380675,
+        "updated3": 1759848789579,
+        "created": 1759463380675
+      }
+    },
+    "https://www.youtube.com/watch?v=tNrNLoCqzco": {
+      "tags": [
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "Fastest way to learn Data Structures and Algorithms",
+        "type": "video",
+        "updated": 1759155982156,
+        "updated3": 1759848789579,
+        "created": 1759155982156
+      }
+    },
+    "https://github.com/eryajf/awesome-stars-eryajf": {
+      "tags": [
+        "awesome"
+      ],
+      "meta": {
+        "title": "eryajf/awesome-stars-eryajf",
+        "type": "repo",
+        "updated": 1759137934737,
+        "updated3": 1759848789579,
+        "created": 1759137934737
+      }
+    },
+    "https://www.youtube.com/watch?v=7kf1SACqlRw": {
+      "tags": [
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "I was bad at Data Structures and Algorithms. Then I did this.",
+        "type": "video",
+        "updated": 1759136895468,
+        "updated3": 1759848789579,
+        "created": 1759136895468
+      }
+    },
+    "https://github.com/itisaid/Doris": {
+      "tags": [
+        "db"
+      ],
+      "meta": {
+        "title": "itisaid/Doris",
+        "type": "repo",
+        "updated": 1759130474740,
+        "updated3": 1759848789579,
+        "created": 1759130474740
+      }
+    },
+    "https://www.cnblogs.com/GarrettWale/p/16271622.html": {
+      "tags": [
+        "db",
+        "index"
+      ],
+      "meta": {
+        "title": "MySQL中的全表扫描和索引树扫描",
+        "updated": 1759050288926,
+        "updated3": 1759848789579,
+        "created": 1759050244003
+      }
+    },
+    "https://github.com/xiaoyaochen": {
+      "tags": [
+        "安全",
+        "安全大佬"
+      ],
+      "meta": {
+        "title": "xiaoyaochen",
+        "type": "user",
+        "updated": 1758531628445,
+        "updated3": 1759848789579,
+        "created": 1758531628445
+      }
+    },
+    "https://github.com/odavid/my-bloody-jenkins/blob/master/slides/My-Bloody-Jenkins-Mastering-The-Butler-0.1.2.pptx": {
+      "tags": [
+        "code",
+        "cicd"
+      ],
+      "meta": {
+        "title": "My-Bloody-Jenkins-Mastering-The-Butler-0.1.2.pptx",
+        "type": "file",
+        "updated": 1758509676930,
+        "updated3": 1759848789579,
+        "created": 1758509676930
+      }
+    },
+    "https://github.com/shuwenhe": {
+      "tags": [
+        "gopher大佬"
+      ],
+      "meta": {
+        "title": "shuwenhe",
+        "type": "user",
+        "updated": 1758466827543,
+        "updated3": 1759848789579,
+        "created": 1758466827543
+      }
+    },
+    "https://huntscreens.com/en": {
+      "tags": [
+        "资源",
+        "ai-tools"
+      ],
+      "meta": {
+        "title": "HuntScreens",
+        "updated": 1758455273544,
+        "updated3": 1759848789579,
+        "created": 1758455273544
+      }
+    },
+    "https://arxiv.org/search/?query=devops&searchtype=all&source=header": {
+      "tags": [
+        "资源",
+        "优秀pdf文档"
+      ],
+      "meta": {
+        "title": "前沿研究pdf文档-Cornell University-arxiv.org",
+        "updated": 1758441287900,
+        "updated3": 1759848789579,
+        "created": 1758441287900
+      }
+    },
+    "https://www.youtube.com/playlist?list=PLdNCznBZ77NrSAWDpUKIqxy6uYLnh-UJ-": {
+      "tags": [
+        "dsa大佬"
+      ],
+      "meta": {
+        "title": "(12) Data Structures & Algorithms - YouTube",
+        "updated": 1758440202025,
+        "updated3": 1759848789579,
+        "created": 1758440202025
+      }
+    },
+    "https://www.youtube.com/@hayk.simonyan/playlists": {
+      "tags": [
+        "fullstack大佬"
+      ],
+      "meta": {
+        "title": "(12) Hayk Simonyan - YouTube",
+        "updated": 1758439975317,
+        "updated3": 1759848789579,
+        "created": 1758439975317
+      }
+    },
+    "https://www.youtube.com/watch?v=FsB_nRGdeLs": {
+      "tags": [
+        "★",
+        "安全",
+        "api"
+      ],
+      "meta": {
+        "title": "API Security Explained: Rate Limiting, CORS, SQL Injection, CSRF, XSS & More",
+        "type": "video",
+        "updated": 1758426356086,
+        "updated3": 1759848789579,
+        "created": 1758426356086
+      }
+    },
+    "https://www.youtube.com/watch?v=McNRkd5CxFY": {
+      "tags": [
+        "★",
+        "ai-mcp"
+      ],
+      "meta": {
+        "title": "MCP是啥？技术原理是什么？一个视频搞懂MCP的一切。Windows系统配置MCP，Cursor,Cline 使用MCP",
+        "type": "video",
+        "updated": 1758425708352,
+        "updated3": 1759848789579,
+        "created": 1758425708352
+      }
+    },
+    "https://www.youtube.com/watch?v=0bmiwsv6LaA": {
+      "tags": [
+        "★",
+        "go",
+        "地道gopher"
+      ],
+      "meta": {
+        "title": "THIS is the BEST Way to Write HTTP Services in Golang",
+        "type": "video",
+        "updated": 1758415659471,
+        "updated3": 1759848789579,
+        "created": 1758415659471
+      }
+    },
+    "https://github.com/pinmonl/pinmonl": {
+      "tags": [
+        "code",
+        "我想现实的"
+      ],
+      "meta": {
+        "title": "pinmonl/pinmonl",
+        "type": "repo",
+        "updated": 1758255649016,
+        "updated3": 1759848789579,
+        "created": 1758255649016
+      }
+    },
+    "https://github.com/recally-io/recally": {
+      "tags": [
+        "code",
+        "llm"
+      ],
+      "meta": {
+        "title": "recally-io/recally",
+        "type": "repo",
+        "updated": 1758253682639,
+        "updated3": 1759848789579,
+        "created": 1758253682639
+      }
+    },
+    "https://github.com/zyedidia/generic": {
+      "tags": [
+        "code",
+        "实用DSA"
+      ],
+      "meta": {
+        "title": "zyedidia/generic",
+        "type": "repo",
+        "updated": 1758192057373,
+        "updated3": 1759848789579,
+        "created": 1758192057373
+      }
+    },
+    "https://www.tampermonkey.net/faq.php#Q209": {
+      "tags": [
+        "Tampermonkey"
+      ],
+      "meta": {
+        "title": "油猴权限",
+        "updated": 1758191610726,
+        "updated3": 1759848789579,
+        "created": 1758191610726
+      }
+    },
+    "https://github.com/eryajf/learning-weekly/tree/main": {
+      "tags": [
+        "★",
+        "favorite"
+      ],
+      "meta": {
+        "title": "eryajf/learning-weekly: 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟",
+        "updated": 1758032760698,
+        "updated3": 1759848789579,
+        "created": 1758032760698
+      }
+    },
+    "https://github.com/realsomething/sql": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "realsomething/sql",
+        "type": "repo",
+        "updated": 1758031995835,
+        "updated3": 1759848789579,
+        "created": 1758031995835
+      }
+    },
+    "https://github.com/realsomething/coderfun": {
+      "tags": [
+        "码农笔记"
+      ],
+      "meta": {
+        "title": "realsomething/coderfun",
+        "type": "repo",
+        "updated": 1758032046985,
+        "updated3": 1759848789579,
+        "created": 1758031684236
+      }
+    },
+    "https://utags.link/help/user-manual/extension-guide/": {
+      "tags": [
+        "read-later",
+        "to-read"
+      ],
+      "meta": {
+        "title": "Browser Extension/User Script Guide | UTags",
+        "updated": 1758020185959,
+        "updated3": 1759848789579,
+        "created": 1758017009558
+      }
+    },
+    "https://juejin.cn/post/7507204325576933391": {
+      "tags": [
+        "reading"
+      ],
+      "meta": {
+        "title": "gRPC--流式传输",
+        "updated": 1758016381974,
+        "updated3": 1759848789579,
+        "created": 1758016381974
+      }
+    },
+    "https://greasyfork.org/scripts/447389": {
+      "tags": [
+        "monkey"
+      ],
+      "meta": {
+        "title": "SciHub CRX",
+        "updated": 1758014863362,
+        "updated3": 1759848789579,
+        "created": 1758014863362
+      }
+    },
+    "https://juejin.cn/post/7549251279018901567": {
+      "tags": [
+        "★",
+        "❤️",
+        "jj-go",
+        "reading"
+      ],
+      "meta": {
+        "title": "Go语言实战案例 — 项目实战篇：图书管理系统（文件存储）一、项目目标 我们要实现一个简易的命令行版 图书管理系统，功能 - 掘金",
+        "updated": 1758015076720,
+        "updated3": 1759848789579,
+        "created": 1757962152955
+      }
+    },
+    "https://www.youtube.com/@hello_interview/featured": {
+      "tags": [
+        "❤️",
+        "ugeek"
+      ],
+      "meta": {
+        "title": "(11) Hello Interview - SWE Interview Preparation - YouTube",
+        "updated": 1757961254694,
+        "updated3": 1759848789579,
+        "created": 1757961254694
+      }
+    },
+    "https://www.youtube.com/watch?v=DQ57zYedMdQ": {
+      "tags": [
+        "system design"
+      ],
+      "meta": {
+        "title": "Basics",
+        "type": "video",
+        "updated": 1757961026418,
+        "updated3": 1759848789579,
+        "created": 1757961026418
+      }
+    },
+    "https://utags.link/#a%20repo%20file": {
+      "tags": [
+        "❤️",
+        "code"
+      ],
+      "meta": {
+        "title": "UTags 书签管理",
+        "updated": 1757960662219,
+        "updated3": 1759848789579,
+        "created": 1757960662219
+      }
+    },
+    "https://github.com/peterq/pan-light/blob/master/pan-light.go": {
+      "tags": [
+        "a repo file"
+      ],
+      "meta": {
+        "title": "pan-light.go",
+        "type": "file",
+        "updated": 1757960517727,
+        "updated3": 1759848789579,
+        "created": 1757960517727
+      }
+    },
+    "https://www.youtube.com/watch?v=DA-WyKVUTI8": {
+      "tags": [
+        "arch",
+        "micro"
+      ],
+      "meta": {
+        "title": "Top 9 Software Architecture Patterns Every Developer Must Know!",
+        "type": "video",
+        "updated": 1757960009157,
+        "updated3": 1759848789579,
+        "created": 1757960009157
+      }
+    },
+    "https://www.youtube.com/watch?v=126ALse1rWA": {
+      "tags": [
+        "arch"
+      ],
+      "meta": {
+        "title": "How Web Sockets work | Deep Dive",
+        "type": "video",
+        "updated": 1757959776298,
+        "updated3": 1759848789579,
+        "created": 1757959776298
+      }
+    },
+    "https://github.com/xinliangnote/Go": {
+      "tags": [
+        "go-repo",
+        "awesome-go"
+      ],
+      "meta": {
+        "title": "xinliangnote/Go",
+        "type": "repo",
+        "updated": 1764816889944,
+        "updated3": 1765853646504,
+        "created": 1757951690482
+      }
+    }
+  },
+  "meta": {
+    "databaseVersion": 3,
+    "lastUploadDevice": {
+      "deviceId": "Q2HYB21LFDE0MS4W-mh8udp81",
+      "browser": "Chrome 143.0",
+      "os": "Windows",
+      "deviceType": "desktop",
+      "uploadTimestamp": 1768986742979,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "origin": "http://localhost:8080",
+      "currentSyncTimestamp": 1768986742978
+    },
+    "stats": {
+      "bookmarksCount": 247,
+      "tagsCount": 74,
+      "totalTagsCount": 316,
+      "domainsCount": 56
+    },
+    "updated": 1768986742979,
+    "created": 1768986742979
+  }
+}
