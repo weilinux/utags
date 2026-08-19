@@ -1,5 +1,65 @@
 {
   "data": {
+    "https://github.com/40t/go-sniffer": {
+      "tags": [
+        "sre精品仓"
+      ],
+      "meta": {
+        "title": "40t/go-sniffer",
+        "type": "repo",
+        "updated": 1787117091360,
+        "updated3": 1787119202979,
+        "created": 1787117091360
+      }
+    },
+    "https://github.com/jhuangtw/xg2xg": {
+      "tags": [
+        "awesome-sre"
+      ],
+      "meta": {
+        "title": "jhuangtw/xg2xg",
+        "type": "repo",
+        "updated": 1777392590031,
+        "updated3": 1787119202979,
+        "created": 1777392590031
+      }
+    },
+    "https://github.com/mtdvio/every-programmer-should-know": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "mtdvio/every-programmer-should-know",
+        "type": "repo",
+        "updated": 1774864552454,
+        "updated3": 1787119202979,
+        "created": 1774864552454
+      }
+    },
+    "https://github.com/meoying/local-msg-go": {
+      "tags": [
+        "read-later"
+      ],
+      "meta": {
+        "title": "meoying/local-msg-go",
+        "type": "repo",
+        "updated": 1769076025977,
+        "updated3": 1787119202979,
+        "created": 1769076025977
+      }
+    },
+    "https://github.com/RustMagazine/rust_magazine_2021": {
+      "tags": [
+        "码农期刊"
+      ],
+      "meta": {
+        "title": "RustMagazine/rust_magazine_2021",
+        "type": "repo",
+        "updated": 1768987611416,
+        "updated3": 1787119202979,
+        "created": 1768987611416
+      }
+    },
     "https://github.com/wathenjiang/SimpleClearFileIO/blob/main/1.%20page%20cache.md": {
       "tags": [
         "fantastic",
@@ -16,13 +76,14 @@
     "https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2024/day02.md": {
       "tags": [
         "awesome-sre",
-        "fantastic"
+        "fantastic",
+        "码农期刊"
       ],
       "meta": {
         "title": "day02.md",
         "type": "file",
-        "updated": 1768985022896,
-        "updated3": 1768985109323,
+        "updated": 1768987550764,
+        "updated3": 1787119202979,
         "created": 1768985022896
       }
     },
@@ -63,13 +124,14 @@
     },
     "https://github.com/tayllan/awesome-algorithms": {
       "tags": [
-        "dsa精品仓库"
+        "dsa精品仓库",
+        "read-later"
       ],
       "meta": {
         "title": "tayllan/awesome-algorithms",
         "type": "repo",
-        "updated": 1766848367372,
-        "updated3": 1768561508198,
+        "updated": 1769075796704,
+        "updated3": 1787119202979,
         "created": 1766848367372
       }
     },
@@ -2923,22 +2985,22 @@
   "meta": {
     "databaseVersion": 3,
     "lastUploadDevice": {
-      "deviceId": "Q2HYB21LFDE0MS4W-mh8udp81",
-      "browser": "Chrome 143.0",
+      "deviceId": "Q2HYB21LFDE1MS4W-mszomqbc",
+      "browser": "Chrome 151.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1768986742979,
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-      "origin": "http://localhost:8080",
-      "currentSyncTimestamp": 1768986742978
+      "uploadTimestamp": 1787119202997,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "origin": "http://127.0.0.1:8080",
+      "currentSyncTimestamp": 1787119202979
     },
     "stats": {
-      "bookmarksCount": 247,
+      "bookmarksCount": 252,
       "tagsCount": 74,
-      "totalTagsCount": 316,
+      "totalTagsCount": 323,
       "domainsCount": 56
     },
-    "updated": 1768986742979,
+    "updated": 1787119202997,
     "created": 1768986742979
   }
 }
