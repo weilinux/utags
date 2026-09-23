@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://github.com/microsoft/RustTraining": {
+      "tags": [
+        "rust"
+      ],
+      "meta": {
+        "title": "microsoft/RustTraining",
+        "type": "repo",
+        "updated": 1790175604154,
+        "updated3": 1790175761503,
+        "created": 1790175604154
+      }
+    },
     "https://github.com/charlax/professional-programming": {
       "tags": [
         "码农素养"
@@ -3166,19 +3178,19 @@
       "browser": "Chrome 153.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1790171446238,
+      "uploadTimestamp": 1790175761506,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1790169947444,
-      "currentSyncTimestamp": 1790171446235
+      "lastDataChangeTimestamp": 1790171446235,
+      "currentSyncTimestamp": 1790175761503
     },
     "stats": {
-      "bookmarksCount": 266,
+      "bookmarksCount": 267,
       "tagsCount": 79,
-      "totalTagsCount": 338,
+      "totalTagsCount": 339,
       "domainsCount": 56
     },
-    "updated": 1790171446238,
+    "updated": 1790175761506,
     "created": 1768986742979
   }
 }
