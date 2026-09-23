@@ -1,5 +1,29 @@
 {
   "data": {
+    "https://github.com/congz666/cmall-vue": {
+      "tags": [
+        "shop"
+      ],
+      "meta": {
+        "title": "congz666/cmall-vue",
+        "type": "repo",
+        "updated": 1790168657875,
+        "updated3": 1790168683003,
+        "created": 1790168657875
+      }
+    },
+    "https://github.com/congz666/cmall-go": {
+      "tags": [
+        "shop"
+      ],
+      "meta": {
+        "title": "congz666/cmall-go",
+        "type": "repo",
+        "updated": 1790168645277,
+        "updated3": 1790168683003,
+        "created": 1790168645277
+      }
+    },
     "https://www.youtube.com/watch?v=RC5VdTvAdVI": {
       "tags": [
         "d-bst"
@@ -3070,19 +3094,19 @@
       "browser": "Chrome 153.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1790161099361,
+      "uploadTimestamp": 1790168683011,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
       "origin": "http://127.0.0.1:8080",
-      "lastDataChangeTimestamp": 1790160879535,
-      "currentSyncTimestamp": 1790161099357
+      "lastDataChangeTimestamp": 1790161099357,
+      "currentSyncTimestamp": 1790168683003
     },
     "stats": {
-      "bookmarksCount": 258,
-      "tagsCount": 77,
-      "totalTagsCount": 330,
+      "bookmarksCount": 260,
+      "tagsCount": 78,
+      "totalTagsCount": 332,
       "domainsCount": 56
     },
-    "updated": 1790161099361,
+    "updated": 1790168683011,
     "created": 1768986742979
   }
 }
