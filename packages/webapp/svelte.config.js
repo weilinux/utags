@@ -1,7 +1,9 @@
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 
 const config = {
-  preprocess: vitePreprocess(),
+  preprocess: vitePreprocess({
+  	script: true}
+  ),
 }
 
 export default config
